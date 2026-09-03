@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "generatedAtUtc": "2026-09-03T12:00:00Z",
+  "group": {
+    "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
+    "name": "After Dark"
+  },
+  "sourceGroupId": "grp_a39a7505-648a-4310-ae1f-7bd19245f073",
+  "roles": [
+    "REX",
+    "MOD"
+  ],
+  "members": [
+    {
+      "displayName": "messeth",
+      "userId": "usr_59f2fc9e-c9e6-49f6-b83c-e897ff962757",
+      "roles": [
+        "REX"
+      ]
+    },
+    {
+      "displayName": "-Sigge",
+      "userId": "usr_4ef75128-34ec-4b4f-97c3-4a7403cb9e6f",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "amaуa",
+      "userId": "usr_bd9a26d6-ffb2-400b-9915-cb2f6438510b",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "ballgags",
+      "userId": "usr_4d3f5515-2f87-4afb-bb4f-d39234c7f822",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "bellа",
+      "userId": "usr_fbdd700d-6e59-4245-a530-3318917d8f3b",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "cakecreamღ",
+      "userId": "usr_f71e34d3-0602-4fbd-96ca-c7601efcea23",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "ChaoticBlatcue",
+      "userId": "usr_f3b1a14b-def5-477f-adb7-833dcfea4f2a",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "DeadPages",
+      "userId": "usr_20f36345-792c-4afb-9f5e-51d6bc350c55",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "Fαngs",
+      "userId": "usr_5f6b4261-21bb-43ba-bf53-641c6e125424",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "GRΛVΣYΛRD",
+      "userId": "usr_6322f455-acf4-4632-be49-ce9eba628880",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "kiktus",
+      "userId": "usr_7e7f97c0-5bba-4156-a8a4-73778e0eb177",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "Lémons",
+      "userId": "usr_a628f1f6-90ad-4e33-ba6d-fda4e2cc728e",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "nøkK ღ",
+      "userId": "usr_6ea070b1-12a9-4a20-823b-c5b9bfe114cc",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "Plewto",
+      "userId": "usr_35bccc85-466f-4b81-a58c-d72e70c723b9",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "Salsa Shark",
+      "userId": "usr_8e426b07-5426-41b0-a6fb-6d1dcc35c252",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "Slide ®",
+      "userId": "usr_def7b0fc-162c-4314-9e36-cd2081aabccc",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "Sαιɳƚ",
+      "userId": "usr_e30339c8-335b-41b4-aaac-ae4c2d4ef314",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "TaterTotL",
+      "userId": "usr_b0dac185-7f76-4a6a-9498-b1b6235d1011",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "The Kirin",
+      "userId": "usr_9da5d6e1-2989-45f1-901e-4333fdaf6968",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "Tiոi",
+      "userId": "usr_7d526959-f3ab-4226-aa82-dba613df998e",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "Ty_ism",
+      "userId": "usr_12fc0230-af4f-448a-bd0b-d832ccb20f85",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "xStarlette",
+      "userId": "usr_84e96299-34de-4572-a8ff-00c5e90d2437",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "ZEN INDIGO",
+      "userId": "usr_db2ea983-5883-4554-bdb5-4542cc0514d6",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "_MiniSoda_",
+      "userId": "usr_90ace81f-689b-467a-8509-dca776b96f5a",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "ǃThunder",
+      "userId": "usr_73d99dcc-f073-4d1e-bd43-bf9ea6fdad0c",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "༒WILDHEART༒",
+      "userId": "usr_dfeab2e5-d4de-4d6e-a41e-b63a4b619b9c",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "メ TΞALIΞ メ",
+      "userId": "usr_45c193e0-fc7c-4350-8794-f34f309e9d0f",
+      "roles": [
+        "MOD"
+      ]
+    }
+  ]
+}
