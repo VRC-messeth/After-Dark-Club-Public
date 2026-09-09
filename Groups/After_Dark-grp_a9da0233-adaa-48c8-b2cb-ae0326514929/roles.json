@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-04T20:14:14.9936353Z",
+  "generatedAtUtc": "2026-09-09T09:51:47.026144Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
@@ -220,13 +220,6 @@
     {
       "displayName": "༒S T Y X༒",
       "userId": "usr_dfeab2e5-d4de-4d6e-a41e-b63a4b619b9c",
-      "roles": [
-        "MOD"
-      ]
-    },
-    {
-      "displayName": "ღL̽ulu̽ღ",
-      "userId": "usr_2147dd04-ed6e-4cb1-908a-d2758d68b9b3",
       "roles": [
         "MOD"
       ]
