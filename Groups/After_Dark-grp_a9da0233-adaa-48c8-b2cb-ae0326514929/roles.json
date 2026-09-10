@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-09T09:51:47.026144Z",
+  "generatedAtUtc": "2026-09-10T22:59:33.0624079Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
@@ -101,6 +101,13 @@
     {
       "displayName": "Marvelxwitch",
       "userId": "usr_fcf0df80-8f57-4929-b57c-2e1ef98a287b",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "Miilii",
+      "userId": "usr_8b713770-beca-4372-be19-541d6604ef61",
       "roles": [
         "MOD"
       ]
