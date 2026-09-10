@@ -1,0 +1,60 @@
+{
+  "paintings": [
+    {
+      "key": "M_Paint_Edvard_Munch_Love_and_Pain",
+      "file": "Edvard_Munch_Love_and_Pain.jpg",
+      "width": 1280,
+      "height": 1173,
+      "sha256": "15ad5c7067e593b2d803fee773ccb8f6f2dc7c98f5a580563751dbf0b0d63132"
+    },
+    {
+      "key": "M_Paint_Francisco_de_Goya_The_Colossus",
+      "file": "Francisco_de_Goya_The_Colossus.jpg",
+      "width": 900,
+      "height": 993,
+      "sha256": "c159d7263078ecc07bc704e7819783e9257458f8926ab548daf66bf5f07adec1"
+    },
+    {
+      "key": "M_Paint_Francisco_de_Goya_Witches_Flight",
+      "file": "Francisco_de_Goya_Witches_Flight.jpg",
+      "width": 1435,
+      "height": 2048,
+      "sha256": "f844b59f6e32412d427a010115f5072118af1b4a43fdd1dc732d9f5bf77a3eeb"
+    },
+    {
+      "key": "M_Paint_Hugo_Simberg_Garden_of_Death",
+      "file": "Hugo_Simberg_Garden_of_Death.jpg",
+      "width": 1280,
+      "height": 1058,
+      "sha256": "10b663955c6ad447ed714c7cb01bd7d1c1654d79538c9e80596a64add7d9880e"
+    },
+    {
+      "key": "M_Paint_James_McNeill_Whistler_Nocturne_in_black_and_gol",
+      "file": "James_McNeill_Whistler_Nocturne_in_black_and_gol.jpg",
+      "width": 960,
+      "height": 1275,
+      "sha256": "8278dd80ee84b4bce4f8c1f343bf1ee03a08eea5e858883025ad411760ad3fde"
+    },
+    {
+      "key": "M_Paint_James_McNeill_Whistler_Old_Battersea_Bridge",
+      "file": "James_McNeill_Whistler_Old_Battersea_Bridge.jpg",
+      "width": 948,
+      "height": 1260,
+      "sha256": "fa93bd3bfd45e99699ae26296a186c66370c0b59650c646f31419fa3d8fbea33"
+    },
+    {
+      "key": "M_Paint_Umberto_Boccioni_Forces_of_the_street",
+      "file": "Umberto_Boccioni_Forces_of_the_street.jpg",
+      "width": 768,
+      "height": 950,
+      "sha256": "658bebca39f6256c0f0b2768766c87acfc48809f1d7659ad77d3b77b506f8a4b"
+    },
+    {
+      "key": "M_Paint_Vincent_van_Gogh_Head_of_a_skeleton_with_a_burni",
+      "file": "Vincent_van_Gogh_Head_of_a_skeleton_with_a_burni.jpg",
+      "width": 960,
+      "height": 1273,
+      "sha256": "e6c2660db9e72e2f6960ef6993e9bd4b9343a3e0b5e5e234dea7ddd00334037c"
+    }
+  ]
+}
