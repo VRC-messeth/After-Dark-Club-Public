@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-10T22:59:33.0624079Z",
+  "generatedAtUtc": "2026-09-12T10:22:58.4195495Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
@@ -190,6 +190,13 @@
       ]
     },
     {
+      "displayName": "VoltaicButler",
+      "userId": "usr_dfeab2e5-d4de-4d6e-a41e-b63a4b619b9c",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
       "displayName": "V̴i̴c̴i̴o̴u̴s̴",
       "userId": "usr_e30339c8-335b-41b4-aaac-ae4c2d4ef314",
       "roles": [
@@ -220,13 +227,6 @@
     {
       "displayName": "૨εყɳα",
       "userId": "usr_c32d43e1-dc19-4457-ab37-643dd546a6f3",
-      "roles": [
-        "MOD"
-      ]
-    },
-    {
-      "displayName": "༒S T Y X༒",
-      "userId": "usr_dfeab2e5-d4de-4d6e-a41e-b63a4b619b9c",
       "roles": [
         "MOD"
       ]
