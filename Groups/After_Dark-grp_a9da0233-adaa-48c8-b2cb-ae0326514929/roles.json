@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-12T10:22:58.4195495Z",
+  "generatedAtUtc": "2026-09-12T10:24:28.4297971Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
@@ -54,6 +54,13 @@
       "userId": "usr_f3b1a14b-def5-477f-adb7-833dcfea4f2a",
       "roles": [
         "MOD"
+      ]
+    },
+    {
+      "displayName": "Cheese Wedge",
+      "userId": "usr_e16b8054-0afe-448b-b15e-74f2a324a407",
+      "roles": [
+        "APEX"
       ]
     },
     {
