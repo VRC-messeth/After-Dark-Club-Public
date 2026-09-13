@@ -3,58 +3,276 @@
     {
       "key": "M_Paint_Edvard_Munch_Love_and_Pain",
       "file": "Edvard_Munch_Love_and_Pain.jpg",
-      "width": 1280,
-      "height": 1173,
-      "sha256": "15ad5c7067e593b2d803fee773ccb8f6f2dc7c98f5a580563751dbf0b0d63132"
+      "width": 1304,
+      "height": 1429,
+      "sha256": "9ddea22777c82e93ac309edf7c35cdf694cfa8937bbe633f5a3b9b41109a167f",
+      "layout": "combined-panel",
+      "artist": "Edvard Munch",
+      "title": "Love and Pain",
+      "year": "1895",
+      "panel_metres": [
+        1.538618925831202,
+        1.686
+      ],
+      "artwork_rect_pixels": [
+        0,
+        0,
+        1304,
+        1195
+      ],
+      "caption_rect_pixels": [
+        152,
+        1229,
+        1000,
+        200
+      ],
+      "caption_format": "title then artist \u00b7 creation year",
+      "caption_font_pixels": [
+        62,
+        44,
+        44
+      ],
+      "source_artwork": "Edvard_Munch-Love_and_Pain-1895.jpg"
     },
     {
       "key": "M_Paint_Francisco_de_Goya_The_Colossus",
       "file": "Francisco_de_Goya_The_Colossus.jpg",
-      "width": 900,
-      "height": 993,
-      "sha256": "c159d7263078ecc07bc704e7819783e9257458f8926ab548daf66bf5f07adec1"
+      "width": 1083,
+      "height": 1429,
+      "sha256": "86f0892c74be197385e29d261cf5640ad9ac193a81b92e2580f4edf64be3ad65",
+      "layout": "combined-panel",
+      "artist": "Francisco de Goya",
+      "title": "The Colossus",
+      "year": "c. 1810",
+      "panel_metres": [
+        1.2779456193353473,
+        1.686
+      ],
+      "artwork_rect_pixels": [
+        0,
+        0,
+        1083,
+        1195
+      ],
+      "caption_rect_pixels": [
+        41,
+        1229,
+        1000,
+        200
+      ],
+      "caption_format": "title then artist \u00b7 creation year",
+      "caption_font_pixels": [
+        62,
+        44,
+        44
+      ],
+      "source_artwork": "Francisco_de_Goya-The_Colossus-c1810.jpg"
     },
     {
       "key": "M_Paint_Francisco_de_Goya_Witches_Flight",
       "file": "Francisco_de_Goya_Witches_Flight.jpg",
-      "width": 1435,
-      "height": 2048,
-      "sha256": "776d5ea8f8d709520bcf613b804c8f4099580e37f4293a8f2b944453f684a978"
+      "width": 1034,
+      "height": 1429,
+      "sha256": "3783b73cf58c720ec5b39f80a1c29b2377923177004214e4361d305238be1117",
+      "layout": "combined-panel",
+      "artist": "Francisco de Goya",
+      "title": "Witches' Flight",
+      "year": "1798",
+      "panel_metres": [
+        1.22,
+        1.686
+      ],
+      "artwork_rect_pixels": [
+        98,
+        0,
+        837,
+        1195
+      ],
+      "caption_rect_pixels": [
+        17,
+        1229,
+        1000,
+        200
+      ],
+      "caption_format": "title then artist \u00b7 creation year",
+      "caption_font_pixels": [
+        62,
+        44,
+        44
+      ],
+      "source_artwork": "Francisco_de_Goya-Witches'_Flight-1798.jpg"
     },
     {
       "key": "M_Paint_Hugo_Simberg_Garden_of_Death",
       "file": "Hugo_Simberg_Garden_of_Death.jpg",
-      "width": 1280,
-      "height": 1058,
-      "sha256": "10b663955c6ad447ed714c7cb01bd7d1c1654d79538c9e80596a64add7d9880e"
+      "width": 1398,
+      "height": 1331,
+      "sha256": "d09d4beb3a6f560d8a7c62ace55016154cd8acff56d31af9b067efacf3ac1dd8",
+      "layout": "combined-panel",
+      "artist": "Hugo Simberg",
+      "title": "Garden of Death",
+      "year": "1896",
+      "panel_metres": [
+        1.65,
+        1.570328
+      ],
+      "artwork_rect_pixels": [
+        35,
+        0,
+        1327,
+        1097
+      ],
+      "caption_rect_pixels": [
+        199,
+        1131,
+        1000,
+        200
+      ],
+      "caption_format": "title then artist \u00b7 creation year",
+      "caption_font_pixels": [
+        62,
+        44,
+        44
+      ],
+      "source_artwork": "Hugo_Simberg-Garden_of_Death-1896.jpg"
     },
     {
       "key": "M_Paint_James_McNeill_Whistler_Nocturne_in_black_and_gol",
       "file": "James_McNeill_Whistler_Nocturne_in_black_and_gol.jpg",
-      "width": 960,
-      "height": 1275,
-      "sha256": "8278dd80ee84b4bce4f8c1f343bf1ee03a08eea5e858883025ad411760ad3fde"
+      "width": 1034,
+      "height": 1429,
+      "sha256": "5a81c829adb2b0cf6897395d2aa93f42b0dbde1d967d078f9301e988f78f48c0",
+      "layout": "combined-panel",
+      "artist": "James McNeill Whistler",
+      "title": "Nocturne in black and gold",
+      "year": "1875",
+      "panel_metres": [
+        1.22,
+        1.686
+      ],
+      "artwork_rect_pixels": [
+        67,
+        0,
+        900,
+        1195
+      ],
+      "caption_rect_pixels": [
+        17,
+        1229,
+        1000,
+        200
+      ],
+      "caption_format": "title then artist \u00b7 creation year",
+      "caption_font_pixels": [
+        62,
+        44,
+        44
+      ],
+      "source_artwork": "James_McNeill_Whistler-Nocturne_in_black_and_gold-1875.jpg"
     },
     {
       "key": "M_Paint_James_McNeill_Whistler_Old_Battersea_Bridge",
       "file": "James_McNeill_Whistler_Old_Battersea_Bridge.jpg",
-      "width": 948,
-      "height": 1260,
-      "sha256": "fa93bd3bfd45e99699ae26296a186c66370c0b59650c646f31419fa3d8fbea33"
+      "width": 1034,
+      "height": 1429,
+      "sha256": "24763b9a8746b668c7a39690ef1842f50ca8e92c0ce94fe0ba056269529dc8fc",
+      "layout": "combined-panel",
+      "artist": "James McNeill Whistler",
+      "title": "Old Battersea Bridge",
+      "year": "c. 1872",
+      "panel_metres": [
+        1.22,
+        1.686
+      ],
+      "artwork_rect_pixels": [
+        67,
+        0,
+        899,
+        1195
+      ],
+      "caption_rect_pixels": [
+        17,
+        1229,
+        1000,
+        200
+      ],
+      "caption_format": "title then artist \u00b7 creation year",
+      "caption_font_pixels": [
+        62,
+        44,
+        44
+      ],
+      "source_artwork": "James_McNeill_Whistler-_Old_Battersea_Bridge_c1872.jpg"
     },
     {
       "key": "M_Paint_Umberto_Boccioni_Forces_of_the_street",
       "file": "Umberto_Boccioni_Forces_of_the_street.jpg",
-      "width": 768,
-      "height": 950,
-      "sha256": "658bebca39f6256c0f0b2768766c87acfc48809f1d7659ad77d3b77b506f8a4b"
+      "width": 1034,
+      "height": 1429,
+      "sha256": "73f9686fae192e3906717ba0612afd69900b0d2334140b83259200e6083a7ea7",
+      "layout": "combined-panel",
+      "artist": "Umberto Boccioni",
+      "title": "Forces of the street",
+      "year": "1911",
+      "panel_metres": [
+        1.22,
+        1.686
+      ],
+      "artwork_rect_pixels": [
+        34,
+        0,
+        966,
+        1195
+      ],
+      "caption_rect_pixels": [
+        17,
+        1229,
+        1000,
+        200
+      ],
+      "caption_format": "title then artist \u00b7 creation year",
+      "caption_font_pixels": [
+        62,
+        44,
+        44
+      ],
+      "source_artwork": "Umberto_Boccioni-Forces_of_the_street,-1911.jpg"
     },
     {
       "key": "M_Paint_Vincent_van_Gogh_Head_of_a_skeleton_with_a_burni",
       "file": "Vincent_van_Gogh_Head_of_a_skeleton_with_a_burni.jpg",
-      "width": 960,
-      "height": 1273,
-      "sha256": "e6c2660db9e72e2f6960ef6993e9bd4b9343a3e0b5e5e234dea7ddd00334037c"
+      "width": 1034,
+      "height": 1503,
+      "sha256": "10b33de93929f05d40c07079dd48b8ce772c48d0e08b26dd0b7a432864df5bad",
+      "layout": "combined-panel",
+      "artist": "Vincent van Gogh",
+      "title": "Head of a skeleton with a burning cigarette",
+      "year": "1885",
+      "panel_metres": [
+        1.22,
+        1.77332
+      ],
+      "artwork_rect_pixels": [
+        66,
+        0,
+        901,
+        1195
+      ],
+      "caption_rect_pixels": [
+        17,
+        1229,
+        1000,
+        274
+      ],
+      "caption_format": "title then artist \u00b7 creation year",
+      "caption_font_pixels": [
+        62,
+        44,
+        44
+      ],
+      "source_artwork": "Vincent_van_Gogh-Head_of_a_skeleton_with_a_burning_cigarette-1885.jpg"
     }
-  ]
+  ],
+  "schema_version": 2,
+  "format": "combined artwork and caption panels"
 }
