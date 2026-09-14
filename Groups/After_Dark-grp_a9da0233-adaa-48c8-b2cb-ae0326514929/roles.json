@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-12T10:24:28.4297971Z",
+  "generatedAtUtc": "2026-09-14T17:21:35.9485299Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
@@ -157,6 +157,13 @@
     {
       "displayName": "Salsa Shark",
       "userId": "usr_8e426b07-5426-41b0-a6fb-6d1dcc35c252",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "switchyp00",
+      "userId": "usr_34a50197-1288-4948-8414-95ca8a7b388b",
       "roles": [
         "MOD"
       ]
