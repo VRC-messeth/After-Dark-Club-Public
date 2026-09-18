@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-18T19:45:55.706084Z",
+  "generatedAtUtc": "2026-09-18T22:58:16.4192967Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
@@ -82,6 +82,13 @@
       "userId": "usr_35d80694-b3d6-4636-a17b-1b0be7903464",
       "roles": [
         "MOD"
+      ]
+    },
+    {
+      "displayName": "Kainé W",
+      "userId": "usr_3ab0dcf1-485a-45af-932f-89932a257ab8",
+      "roles": [
+        "CORE"
       ]
     },
     {
