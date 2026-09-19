@@ -1,6 +1,7 @@
 {
  "schemaVersion": 2,
  "hostLock": true,
+ "gateAllowed": false,
  "generatedAtUtc": "2026-09-18T22:58:16.4192967Z",
  "group": {
   "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
