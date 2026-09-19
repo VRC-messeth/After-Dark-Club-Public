@@ -1,6 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-18T22:58:16.4192967Z",
+  "hostLock": true,
+  "generatedAtUtc": "2026-09-19T17:18:18.4665074Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
@@ -122,6 +123,13 @@
     {
       "displayName": "Miilii",
       "userId": "usr_8b713770-beca-4372-be19-541d6604ef61",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "Mini_Beast",
+      "userId": "usr_f5ed9f54-8e5c-4c73-94c8-4de5fc7f1039",
       "roles": [
         "MOD"
       ]
