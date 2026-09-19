@@ -1,0 +1,265 @@
+{
+  "schemaVersion": 1,
+  "hostLock": true,
+  "generatedAtUtc": "2026-09-18T22:58:16.4192967Z",
+  "group": {
+    "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
+    "name": "After Dark"
+  },
+  "sourceGroupId": "grp_a39a7505-648a-4310-ae1f-7bd19245f073",
+  "roles": [
+    "REX",
+    "MOD",
+    "APEX",
+    "PRIME",
+    "CORE"
+  ],
+  "members": [
+    {
+      "displayName": "messeth",
+      "userId": "usr_59f2fc9e-c9e6-49f6-b83c-e897ff962757",
+      "roles": [
+        "REX"
+      ]
+    },
+    {
+      "displayName": "-Sigge",
+      "userId": "usr_4ef75128-34ec-4b4f-97c3-4a7403cb9e6f",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "angelss-",
+      "userId": "usr_ec58f85f-bd42-4ac9-86dc-160501ca8e78",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "ballgags",
+      "userId": "usr_4d3f5515-2f87-4afb-bb4f-d39234c7f822",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "cakecreamღ",
+      "userId": "usr_f71e34d3-0602-4fbd-96ca-c7601efcea23",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "ChaoticBlatcue",
+      "userId": "usr_f3b1a14b-def5-477f-adb7-833dcfea4f2a",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "Cheese Wedge",
+      "userId": "usr_e16b8054-0afe-448b-b15e-74f2a324a407",
+      "roles": [
+        "APEX"
+      ]
+    },
+    {
+      "displayName": "Fαngs",
+      "userId": "usr_5f6b4261-21bb-43ba-bf53-641c6e125424",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "Initialz",
+      "userId": "usr_704c5e8c-d7c5-4df4-9152-02d053a6ba17",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "Its_Fox",
+      "userId": "usr_35d80694-b3d6-4636-a17b-1b0be7903464",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "Kainé W",
+      "userId": "usr_3ab0dcf1-485a-45af-932f-89932a257ab8",
+      "roles": [
+        "CORE"
+      ]
+    },
+    {
+      "displayName": "kiktus",
+      "userId": "usr_7e7f97c0-5bba-4156-a8a4-73778e0eb177",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "LeatherDaddy",
+      "userId": "usr_274b3f98-0887-40ac-b713-64a2bbd49b2c",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "Lémons",
+      "userId": "usr_a628f1f6-90ad-4e33-ba6d-fda4e2cc728e",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "Marvelxwitch",
+      "userId": "usr_fcf0df80-8f57-4929-b57c-2e1ef98a287b",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "Miilii",
+      "userId": "usr_8b713770-beca-4372-be19-541d6604ef61",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "MissVendetta",
+      "userId": "usr_36bbe93b-4a4a-476b-be9a-bb55eaface28",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "PaperMirror",
+      "userId": "usr_20f36345-792c-4afb-9f5e-51d6bc350c55",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "Phoon-",
+      "userId": "usr_02dea220-8945-4093-999c-5d628775ac7d",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "Plewto",
+      "userId": "usr_35bccc85-466f-4b81-a58c-d72e70c723b9",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "RING THEORY",
+      "userId": "usr_6ea070b1-12a9-4a20-823b-c5b9bfe114cc",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "Salsa Shark",
+      "userId": "usr_8e426b07-5426-41b0-a6fb-6d1dcc35c252",
+      "roles": [
+        "MOD",
+        "CORE"
+      ]
+    },
+    {
+      "displayName": "switchyp00",
+      "userId": "usr_34a50197-1288-4948-8414-95ca8a7b388b",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "TaterTotL",
+      "userId": "usr_b0dac185-7f76-4a6a-9498-b1b6235d1011",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "The Kirin",
+      "userId": "usr_9da5d6e1-2989-45f1-901e-4333fdaf6968",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "Tiոi",
+      "userId": "usr_7d526959-f3ab-4226-aa82-dba613df998e",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "Ty_ism",
+      "userId": "usr_12fc0230-af4f-448a-bd0b-d832ccb20f85",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "Vahnilla",
+      "userId": "usr_053c5553-8304-4d55-8998-35c1dabb3d5c",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "VoltaicButler",
+      "userId": "usr_dfeab2e5-d4de-4d6e-a41e-b63a4b619b9c",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "V̴i̴c̴i̴o̴u̴s̴",
+      "userId": "usr_e30339c8-335b-41b4-aaac-ae4c2d4ef314",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "ZEN INDIGO",
+      "userId": "usr_db2ea983-5883-4554-bdb5-4542cc0514d6",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "_MiniSoda_",
+      "userId": "usr_90ace81f-689b-467a-8509-dca776b96f5a",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "ǃThunder",
+      "userId": "usr_73d99dcc-f073-4d1e-bd43-bf9ea6fdad0c",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "૨εყɳα",
+      "userId": "usr_c32d43e1-dc19-4457-ab37-643dd546a6f3",
+      "roles": [
+        "MOD"
+      ]
+    },
+    {
+      "displayName": "メ TΞALIΞ メ",
+      "userId": "usr_45c193e0-fc7c-4350-8794-f34f309e9d0f",
+      "roles": [
+        "MOD"
+      ]
+    }
+  ]
+}
