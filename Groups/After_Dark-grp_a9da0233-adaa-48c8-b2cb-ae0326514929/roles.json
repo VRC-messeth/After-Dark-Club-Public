@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "hostLock": true,
-  "generatedAtUtc": "2026-09-19T17:18:18.4665074Z",
+  "generatedAtUtc": "2026-09-21T11:22:00.0526682Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
@@ -60,6 +60,13 @@
     {
       "displayName": "Cheese Wedge",
       "userId": "usr_e16b8054-0afe-448b-b15e-74f2a324a407",
+      "roles": [
+        "APEX"
+      ]
+    },
+    {
+      "displayName": "Freyja-",
+      "userId": "usr_a43e9b17-07f7-40c5-947c-112c15f29aee",
       "roles": [
         "APEX"
       ]
