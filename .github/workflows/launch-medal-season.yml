@@ -1,0 +1,46 @@
+name: Start medal season
+run-name: Start medal season by @${{ github.actor }}
+on:
+  workflow_dispatch:
+    inputs:
+      season:
+        description: Start permanently after the updated world is live
+        required: true
+        type: choice
+        options:
+          - medals-2026-09
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: medal-season-launch
+  cancel-in-progress: false
+jobs:
+  launch:
+    if: github.repository == 'VRC-messeth/After-Dark-Club-Public' && github.actor == 'VRC-messeth' && github.triggering_actor == 'VRC-messeth' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Verify launch safeguards
+        run: python3 -m unittest discover -s scripts -p test_launch_medal_season.py
+      - name: Start once
+        env:
+          MEDAL_SEASON: ${{ inputs.season }}
+        run: python3 scripts/launch_medal_season.py --file Seasons/medals-2026-09.json --season "$MEDAL_SEASON"
+      - name: Commit release record if changed
+        run: |
+          if ! git diff --quiet -- Seasons/medals-2026-09.json; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add -- Seasons/medals-2026-09.json
+            git commit -m 'Launch medal season medals-2026-09'
+            git push origin HEAD:main
+          fi
+      - name: Publish record through existing GitHub Pages site
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST repos/VRC-messeth/After-Dark-Club-Public/pages/builds
+
