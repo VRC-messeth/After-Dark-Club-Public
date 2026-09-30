@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "hostLock": true,
-  "generatedAtUtc": "2026-09-21T11:22:00.0526682Z",
+  "generatedAtUtc": "2026-09-30T23:17:22.176102Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
@@ -182,6 +182,13 @@
       "roles": [
         "MOD",
         "CORE"
+      ]
+    },
+    {
+      "displayName": "SnowJellies",
+      "userId": "usr_b6a7511e-90df-47a8-b25f-1b00b3f45dff",
+      "roles": [
+        "MOD"
       ]
     },
     {
