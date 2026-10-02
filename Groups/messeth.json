@@ -1,7 +1,7 @@
 {
  "schemaVersion": 2,
  "hostLock": true,
- "generatedAtUtc": "2026-09-30T23:17:22.176102Z",
+ "generatedAtUtc": "2026-10-02T23:30:35.9660701Z",
  "group": {
   "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
   "name": "After Dark"
@@ -51,9 +51,11 @@
    "Cheese Wedge",
    "Freyja-"
   ],
-  "CORE": [
-   "Kainé W",
+  "PRIME": [
    "Salsa Shark"
+  ],
+  "CORE": [
+   "Kainé W"
   ]
  }
 }
