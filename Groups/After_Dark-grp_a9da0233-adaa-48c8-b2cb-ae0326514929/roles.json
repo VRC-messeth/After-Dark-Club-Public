@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "hostLock": true,
-  "generatedAtUtc": "2026-10-02T23:30:35.9660701Z",
+  "generatedAtUtc": "2026-10-04T23:46:21.1310047Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
@@ -62,6 +62,13 @@
       "userId": "usr_e16b8054-0afe-448b-b15e-74f2a324a407",
       "roles": [
         "APEX"
+      ]
+    },
+    {
+      "displayName": "EmersedTheFox",
+      "userId": "usr_127923bc-94d7-4c0a-b444-e1f5ab5dedf4",
+      "roles": [
+        "CORE"
       ]
     },
     {
