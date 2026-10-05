@@ -1,7 +1,7 @@
 {
  "schemaVersion": 2,
  "hostLock": true,
- "generatedAtUtc": "2026-10-04T23:46:21.1310047Z",
+ "generatedAtUtc": "2026-10-05T18:09:34.277319Z",
  "group": {
   "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
   "name": "After Dark"
@@ -52,7 +52,8 @@
    "Freyja-"
   ],
   "PRIME": [
-   "Salsa Shark"
+   "Salsa Shark",
+   "WilloWisp_"
   ],
   "CORE": [
    "EmersedTheFox",
