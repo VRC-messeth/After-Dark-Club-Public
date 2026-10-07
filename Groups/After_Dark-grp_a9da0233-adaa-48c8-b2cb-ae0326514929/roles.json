@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "hostLock": true,
-  "generatedAtUtc": "2026-10-05T18:09:34.277319Z",
+  "generatedAtUtc": "2026-10-07T21:37:07.7110525Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
@@ -58,27 +58,6 @@
       ]
     },
     {
-      "displayName": "Cheese Wedge",
-      "userId": "usr_e16b8054-0afe-448b-b15e-74f2a324a407",
-      "roles": [
-        "APEX"
-      ]
-    },
-    {
-      "displayName": "EmersedTheFox",
-      "userId": "usr_127923bc-94d7-4c0a-b444-e1f5ab5dedf4",
-      "roles": [
-        "CORE"
-      ]
-    },
-    {
-      "displayName": "Freyja-",
-      "userId": "usr_a43e9b17-07f7-40c5-947c-112c15f29aee",
-      "roles": [
-        "APEX"
-      ]
-    },
-    {
       "displayName": "Fαngs",
       "userId": "usr_5f6b4261-21bb-43ba-bf53-641c6e125424",
       "roles": [
@@ -97,13 +76,6 @@
       "userId": "usr_35d80694-b3d6-4636-a17b-1b0be7903464",
       "roles": [
         "MOD"
-      ]
-    },
-    {
-      "displayName": "Kainé W",
-      "userId": "usr_3ab0dcf1-485a-45af-932f-89932a257ab8",
-      "roles": [
-        "CORE"
       ]
     },
     {
@@ -187,8 +159,7 @@
       "displayName": "Salsa Shark",
       "userId": "usr_8e426b07-5426-41b0-a6fb-6d1dcc35c252",
       "roles": [
-        "MOD",
-        "PRIME"
+        "MOD"
       ]
     },
     {
@@ -252,13 +223,6 @@
       "userId": "usr_e30339c8-335b-41b4-aaac-ae4c2d4ef314",
       "roles": [
         "MOD"
-      ]
-    },
-    {
-      "displayName": "WilloWisp_",
-      "userId": "usr_568dce5a-fe41-4521-b4a5-81093d5da3f3",
-      "roles": [
-        "PRIME"
       ]
     },
     {
