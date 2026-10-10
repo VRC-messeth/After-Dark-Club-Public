@@ -1,0 +1,53 @@
+{
+ "version": 1,
+ "slotCount": 128,
+ "base": "https://vrc-messeth.github.io/After-Dark-Club-Public/Rolling-Ads/slots/",
+ "ads": [
+  {
+   "slot": 0,
+   "owner": "usr_20f36345-792c-4afb-9f5e-51d6bc350c55",
+   "file": "usr_20f36345-792c-4afb-9f5e-51d6bc350c55.png"
+  },
+  {
+   "slot": 1,
+   "owner": "usr_35d80694-b3d6-4636-a17b-1b0be7903464",
+   "file": "usr_35d80694-b3d6-4636-a17b-1b0be7903464.png"
+  },
+  {
+   "slot": 2,
+   "owner": "usr_36bbe93b-4a4a-476b-be9a-bb55eaface28",
+   "file": "usr_36bbe93b-4a4a-476b-be9a-bb55eaface28.png"
+  },
+  {
+   "slot": 3,
+   "owner": "usr_59f2fc9e-c9e6-49f6-b83c-e897ff962757",
+   "file": "usr_59f2fc9e-c9e6-49f6-b83c-e897ff962757.png"
+  },
+  {
+   "slot": 4,
+   "owner": "usr_7d526959-f3ab-4226-aa82-dba613df998e",
+   "file": "usr_7d526959-f3ab-4226-aa82-dba613df998e.png"
+  },
+  {
+   "slot": 5,
+   "owner": "usr_7eb91cf1-c3a4-4374-9529-8fbe0378ae01",
+   "file": "usr_7eb91cf1-c3a4-4374-9529-8fbe0378ae01.png"
+  },
+  {
+   "slot": 6,
+   "owner": "usr_8e426b07-5426-41b0-a6fb-6d1dcc35c252",
+   "file": "usr_8e426b07-5426-41b0-a6fb-6d1dcc35c252.png"
+  },
+  {
+   "slot": 7,
+   "owner": "usr_ec58f85f-bd42-4ac9-86dc-160501ca8e78",
+   "file": "usr_ec58f85f-bd42-4ac9-86dc-160501ca8e78.png"
+  },
+  {
+   "slot": 8,
+   "owner": "usr_f71e34d3-0602-4fbd-96ca-c7601efcea23",
+   "file": "usr_f71e34d3-0602-4fbd-96ca-c7601efcea23.png"
+  }
+ ],
+ "freedAt": {}
+}
