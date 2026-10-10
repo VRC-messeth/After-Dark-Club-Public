@@ -1,0 +1,63 @@
+# Keeps Rolling-Ads/slots/ (the fixed URLs the world bakes) in step with the ads the
+# After Dark Manager publishes. See .github/scripts/rolling_ads_slots.py.
+name: Rolling-Ads slots
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "Rolling-Ads/*.png"
+      - "Rolling-Ads/*.jpg"
+      - "Rolling-Ads/*.jpeg"
+      - ".github/scripts/rolling_ads_slots.py"
+      - ".github/workflows/rolling-ads-slots.yml"
+  workflow_dispatch:
+
+# One run at a time; a run that starts while another is going waits and then sees
+# the newest folder, so nothing is lost when the bot approves two ads in a row.
+concurrency:
+  group: rolling-ads-slots
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pages: write
+
+jobs:
+  slots:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Map ads to slots and push
+        run: |
+          git config user.name  "rolling-ads-slots[bot]"
+          git config user.email "rolling-ads-slots@users.noreply.github.com"
+          for attempt in 1 2 3 4 5; do
+            python3 .github/scripts/rolling_ads_slots.py .
+            git add -A Rolling-Ads/slots
+            if git diff --cached --quiet; then
+              echo "slots already up to date"; exit 0
+            fi
+            git commit -q -m "Rolling-Ads slots: $(python3 -c 'import json;print(len(json.load(open("Rolling-Ads/slots/manifest.json"))["ads"]))') ad(s)"
+            if git push -q origin HEAD:main; then
+              echo "pushed"; echo "PUSHED=1" >> "$GITHUB_ENV"; exit 0
+            fi
+            # The bot committed in between: start again from the new main.
+            echo "push raced the bot (attempt $attempt); retrying from the new main"
+            git fetch -q origin main
+            git reset -q --hard origin/main
+            sleep $((attempt * 3))
+          done
+          echo "gave up after 5 attempts"; exit 1
+
+      # Pages rebuilds on pushes to main; this is a belt-and-braces nudge in case a push
+      # made with the workflow token does not trigger the legacy build.
+      - name: Request a Pages build
+        if: env.PUSHED == '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds" || true
