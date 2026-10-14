@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "hostLock": true,
-  "generatedAtUtc": "2026-10-09T00:36:52.1950259Z",
+  "generatedAtUtc": "2026-10-14T17:54:56.9559502Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
@@ -46,13 +46,6 @@
     {
       "displayName": "cakecreamღ",
       "userId": "usr_f71e34d3-0602-4fbd-96ca-c7601efcea23",
-      "roles": [
-        "MOD"
-      ]
-    },
-    {
-      "displayName": "ChaoticBlatcue",
-      "userId": "usr_f3b1a14b-def5-477f-adb7-833dcfea4f2a",
       "roles": [
         "MOD"
       ]
@@ -234,15 +227,15 @@
       ]
     },
     {
-      "displayName": "Vahnilla",
-      "userId": "usr_053c5553-8304-4d55-8998-35c1dabb3d5c",
+      "displayName": "Untitled_Feline",
+      "userId": "usr_f3b1a14b-def5-477f-adb7-833dcfea4f2a",
       "roles": [
         "MOD"
       ]
     },
     {
-      "displayName": "VoltaicButler",
-      "userId": "usr_dfeab2e5-d4de-4d6e-a41e-b63a4b619b9c",
+      "displayName": "Vahnilla",
+      "userId": "usr_053c5553-8304-4d55-8998-35c1dabb3d5c",
       "roles": [
         "MOD"
       ]
