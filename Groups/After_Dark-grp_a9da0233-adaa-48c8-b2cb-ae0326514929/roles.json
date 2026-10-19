@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "hostLock": true,
-  "generatedAtUtc": "2026-10-19T13:01:12.1632948Z",
+  "generatedAtUtc": "2026-10-19T22:12:26.7210766Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
@@ -62,6 +62,13 @@
       "userId": "usr_127923bc-94d7-4c0a-b444-e1f5ab5dedf4",
       "roles": [
         "CORE"
+      ]
+    },
+    {
+      "displayName": "fungi_lord",
+      "userId": "usr_cda62b87-dbb8-49de-bd25-b9f94dc8dd41",
+      "roles": [
+        "MOD"
       ]
     },
     {
