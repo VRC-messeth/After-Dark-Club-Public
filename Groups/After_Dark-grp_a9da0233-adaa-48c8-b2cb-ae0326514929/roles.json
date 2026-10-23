@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "hostLock": true,
-  "generatedAtUtc": "2026-10-19T22:12:26.7210766Z",
+  "generatedAtUtc": "2026-10-23T00:14:36.0643552Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
@@ -229,13 +229,6 @@
     {
       "displayName": "Ty_ism",
       "userId": "usr_12fc0230-af4f-448a-bd0b-d832ccb20f85",
-      "roles": [
-        "MOD"
-      ]
-    },
-    {
-      "displayName": "Untitled_Feline",
-      "userId": "usr_f3b1a14b-def5-477f-adb7-833dcfea4f2a",
       "roles": [
         "MOD"
       ]
