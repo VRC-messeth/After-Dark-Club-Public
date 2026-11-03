@@ -1,7 +1,7 @@
 {
  "schemaVersion": 2,
  "hostLock": true,
- "generatedAtUtc": "2026-10-31T00:21:07.3040994Z",
+ "generatedAtUtc": "2026-11-03T00:59:00.1908522Z",
  "group": {
   "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
   "name": "After Dark"
@@ -58,7 +58,8 @@
   ],
   "CORE": [
    "EmersedTheFox",
-   "Kainé W"
+   "Kainé W",
+   "TB_HyDra"
   ]
  }
 }
