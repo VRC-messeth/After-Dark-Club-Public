@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "hostLock": true,
-  "generatedAtUtc": "2026-11-06T12:48:29.3164059Z",
+  "generatedAtUtc": "2026-11-06T20:33:51.8595581Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
@@ -12,7 +12,8 @@
     "MOD",
     "APEX",
     "PRIME",
-    "CORE"
+    "CORE",
+    "WATCHER"
   ],
   "members": [
     {
