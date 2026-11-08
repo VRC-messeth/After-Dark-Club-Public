@@ -1,7 +1,7 @@
 {
  "schemaVersion": 2,
  "hostLock": true,
- "generatedAtUtc": "2026-11-07T03:53:29.5477407Z",
+ "generatedAtUtc": "2026-11-08T16:53:12.644993Z",
  "group": {
   "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
   "name": "After Dark"
@@ -52,10 +52,10 @@
    "〘Ζoey〙"
   ],
   "PRIME": [
+   "EmersedTheFox",
    "Salsa Shark"
   ],
   "CORE": [
-   "EmersedTheFox",
    "Kainé W",
    "TB_HyDra"
   ]
