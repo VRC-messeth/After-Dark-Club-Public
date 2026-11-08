@@ -1,7 +1,30 @@
 {
   "schemaVersion": 1,
   "kind": "afterdark.hosts",
-  "generatedAtUtc": "2026-11-08T16:42:34Z",
+  "generatedAtUtc": "2026-11-08T16:53:15Z",
   "gateAllowed": true,
-  "groups": []
+  "groups": [
+    {
+      "slot": 0,
+      "key": "thetangle",
+      "name": "The Tangle",
+      "groupId": "grp_edd2b751-a7f8-4318-b01c-5bbb719570c9",
+      "active": true,
+      "validUntilUtc": "2026-11-11T16:53:12Z",
+      "tier": "prime",
+      "owner": "EmersedTheFox",
+      "hosts": [],
+      "mods": [],
+      "settings": {
+        "gate": false,
+        "gateLock": false,
+        "hostLock": false,
+        "securityLock": false,
+        "stageLock": false,
+        "roomLocking": true,
+        "vip": true,
+        "bar": false
+      }
+    }
+  ]
 }
