@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "kind": "afterdark.hosts",
-  "generatedAtUtc": "2026-11-08T17:07:30Z",
+  "generatedAtUtc": "2026-11-08T17:49:48Z",
   "gateAllowed": true,
   "groups": [
     {
@@ -13,7 +13,10 @@
       "validUntilUtc": "2026-11-11T17:05:24Z",
       "tier": "prime",
       "owner": "EmersedTheFox",
-      "hosts": [],
+      "hosts": [
+        "OrionGalaxy",
+        "WilloWisp_"
+      ],
       "mods": [],
       "settings": {
         "gate": false,
