@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "hostLock": true,
-  "generatedAtUtc": "2026-11-09T02:08:48.7015381Z",
+  "generatedAtUtc": "2026-11-09T02:52:24.6970449Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
@@ -56,6 +56,13 @@
       "userId": "usr_f71e34d3-0602-4fbd-96ca-c7601efcea23",
       "roles": [
         "MOD"
+      ]
+    },
+    {
+      "displayName": "Carti_Angel",
+      "userId": "usr_08910c66-c7d5-4d52-a309-af3ec244a837",
+      "roles": [
+        "PRIME"
       ]
     },
     {
