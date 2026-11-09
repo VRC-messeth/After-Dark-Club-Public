@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "kind": "afterdark.hosts",
-  "generatedAtUtc": "2026-11-09T02:52:27Z",
+  "generatedAtUtc": "2026-11-09T02:55:36Z",
   "gateAllowed": true,
   "groups": [
     {
@@ -40,7 +40,9 @@
       "tier": "prime",
       "owner": "Carti_Angel",
       "hosts": [],
-      "mods": [],
+      "mods": [
+        "Carti_Angel"
+      ],
       "settings": {
         "gate": false,
         "gateLock": false,
