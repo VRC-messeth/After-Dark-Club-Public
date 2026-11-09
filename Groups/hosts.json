@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "kind": "afterdark.hosts",
-  "generatedAtUtc": "2026-11-09T02:57:58Z",
+  "generatedAtUtc": "2026-11-09T03:34:09Z",
   "gateAllowed": true,
   "groups": [
     {
@@ -54,7 +54,8 @@
         "roomLocking": true,
         "vip": true,
         "bar": true
-      }
+      },
+      "logo": 1
     }
   ]
 }
