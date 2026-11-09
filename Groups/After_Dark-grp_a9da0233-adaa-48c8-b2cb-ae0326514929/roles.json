@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "hostLock": true,
-  "generatedAtUtc": "2026-11-08T16:53:12.644993Z",
+  "generatedAtUtc": "2026-11-09T02:08:48.7015381Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
@@ -35,6 +35,13 @@
       "userId": "usr_ec58f85f-bd42-4ac9-86dc-160501ca8e78",
       "roles": [
         "MOD"
+      ]
+    },
+    {
+      "displayName": "ARDONIS SAINT",
+      "userId": "usr_8198ec5f-8e62-4a1e-b823-17deef0c80ff",
+      "roles": [
+        "CORE"
       ]
     },
     {
@@ -73,6 +80,13 @@
       ]
     },
     {
+      "displayName": "IloroGaster_Eli",
+      "userId": "usr_835c4e24-b481-48d7-9318-b65ae49abc1f",
+      "roles": [
+        "PRIME"
+      ]
+    },
+    {
       "displayName": "Initialz",
       "userId": "usr_704c5e8c-d7c5-4df4-9152-02d053a6ba17",
       "roles": [
@@ -98,6 +112,13 @@
       "userId": "usr_7e7f97c0-5bba-4156-a8a4-73778e0eb177",
       "roles": [
         "MOD"
+      ]
+    },
+    {
+      "displayName": "Krace",
+      "userId": "usr_efa8b3d6-1591-4ffd-9f8e-a255b6628b3c",
+      "roles": [
+        "CORE"
       ]
     },
     {
@@ -150,6 +171,13 @@
       ]
     },
     {
+      "displayName": "MrMoneyMan895",
+      "userId": "usr_77f99cc8-0875-49fd-99de-382ba4519a5e",
+      "roles": [
+        "PRIME"
+      ]
+    },
+    {
       "displayName": "OrionGalaxy",
       "userId": "usr_c25672aa-3ee4-4880-8db4-ff0a313dc1f6",
       "roles": [
@@ -178,6 +206,13 @@
       ]
     },
     {
+      "displayName": "Puchungoalexito",
+      "userId": "usr_bbb8443e-6f53-481a-82de-baa5b0e60308",
+      "roles": [
+        "PRIME"
+      ]
+    },
+    {
       "displayName": "RING THEORY",
       "userId": "usr_6ea070b1-12a9-4a20-823b-c5b9bfe114cc",
       "roles": [
@@ -197,6 +232,13 @@
       "userId": "usr_b6a7511e-90df-47a8-b25f-1b00b3f45dff",
       "roles": [
         "MOD"
+      ]
+    },
+    {
+      "displayName": "Soondithy",
+      "userId": "usr_24104590-d2d7-42a8-9f80-4740e12ad76b",
+      "roles": [
+        "CORE"
       ]
     },
     {
@@ -288,6 +330,13 @@
       "userId": "usr_c32d43e1-dc19-4457-ab37-643dd546a6f3",
       "roles": [
         "MOD"
+      ]
+    },
+    {
+      "displayName": "༒ JIGGLYPOOFY༒",
+      "userId": "usr_1da0b0b3-bc8a-41a0-a294-f33271536383",
+      "roles": [
+        "CORE"
       ]
     },
     {
