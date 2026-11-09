@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "kind": "afterdark.hosts",
-  "generatedAtUtc": "2026-11-08T17:49:48Z",
+  "generatedAtUtc": "2026-11-09T02:52:27Z",
   "gateAllowed": true,
   "groups": [
     {
@@ -29,6 +29,28 @@
         "bar": true
       },
       "logo": 0
+    },
+    {
+      "slot": 1,
+      "key": "cartislounge",
+      "name": "Cartis Lounge",
+      "groupId": "grp_c8d5bef4-f2e2-4604-b60c-0c6a25939516",
+      "active": true,
+      "validUntilUtc": "2026-11-12T02:52:24Z",
+      "tier": "prime",
+      "owner": "Carti_Angel",
+      "hosts": [],
+      "mods": [],
+      "settings": {
+        "gate": false,
+        "gateLock": false,
+        "hostLock": false,
+        "securityLock": false,
+        "stageLock": false,
+        "roomLocking": true,
+        "vip": true,
+        "bar": false
+      }
     }
   ]
 }
