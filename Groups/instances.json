@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-10T16:27:25Z",
+  "generatedAtUtc": "2026-11-10T16:30:08Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
   },
-  "totalUsers": 10,
+  "totalUsers": 9,
   "instances": [
     {
       "worldId": "wrld_ae001ea3-ed05-42f0-adf2-3d47efd10a77",
@@ -16,7 +16,7 @@
       "region": "use",
       "accessType": "public",
       "ageGate": true,
-      "userCount": 5,
+      "userCount": 4,
       "capacity": 25,
       "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_ae001ea3-ed05-42f0-adf2-3d47efd10a77\u0026instanceId=23591~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28use%29",
       "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_32c72b6b-2d1b-4d19-8fba-581735500ad2_8.png",
@@ -42,26 +42,6 @@
       "openedBy": null
     },
     {
-      "worldId": "wrld_266523e8-9161-40da-acd0-6bd82e075833",
-      "worldName": "Popcorn Palace",
-      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_625a71d4-db95-4026-add7-744b86c7a567/14/256",
-      "instanceName": "36699",
-      "location": "wrld_266523e8-9161-40da-acd0-6bd82e075833:36699~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(plus)~ageGate~region(use)",
-      "region": "use",
-      "accessType": "plus",
-      "ageGate": true,
-      "userCount": 1,
-      "capacity": 80,
-      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_266523e8-9161-40da-acd0-6bd82e075833\u0026instanceId=36699~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28plus%29~ageGate~region%28use%29",
-      "worldImageCachedUrl": null,
-      "firstSeenAtUtc": "2026-11-10T16:24:34Z",
-      "openedAtUtc": "2026-11-10T16:24:34Z",
-      "openedBy": {
-        "name": null,
-        "role": "member"
-      }
-    },
-    {
       "worldId": "wrld_3edb543b-bd8e-4ae0-8592-93678bc62456",
       "worldName": "After Dark Club",
       "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_48666cc8-39c9-4271-ac7a-1819404c6cdf/3/256",
@@ -80,6 +60,23 @@
         "name": null,
         "role": "member"
       }
+    },
+    {
+      "worldId": "wrld_67098f19-79c9-4e7c-be8c-5d9c8903ff74",
+      "worldName": "ORBITAL GENESIS V4\u20240\u20240",
+      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_370d9b5a-5f47-450d-bf20-7bd3de0e4279/4/256",
+      "instanceName": "24183",
+      "location": "wrld_67098f19-79c9-4e7c-be8c-5d9c8903ff74:24183~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(public)~ageGate~region(use)",
+      "region": "use",
+      "accessType": "public",
+      "ageGate": true,
+      "userCount": 1,
+      "capacity": null,
+      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_67098f19-79c9-4e7c-be8c-5d9c8903ff74\u0026instanceId=24183~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28use%29",
+      "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_370d9b5a-5f47-450d-bf20-7bd3de0e4279_4.png",
+      "firstSeenAtUtc": null,
+      "openedAtUtc": null,
+      "openedBy": null
     }
   ]
 }
