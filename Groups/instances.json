@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-10T16:25:22Z",
+  "generatedAtUtc": "2026-11-10T16:27:25Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
   },
-  "totalUsers": 9,
+  "totalUsers": 10,
   "instances": [
     {
       "worldId": "wrld_ae001ea3-ed05-42f0-adf2-3d47efd10a77",
@@ -16,7 +16,7 @@
       "region": "use",
       "accessType": "public",
       "ageGate": true,
-      "userCount": 4,
+      "userCount": 5,
       "capacity": 25,
       "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_ae001ea3-ed05-42f0-adf2-3d47efd10a77\u0026instanceId=23591~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28use%29",
       "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_32c72b6b-2d1b-4d19-8fba-581735500ad2_8.png",
@@ -44,19 +44,22 @@
     {
       "worldId": "wrld_266523e8-9161-40da-acd0-6bd82e075833",
       "worldName": "Popcorn Palace",
-      "worldImageUrl": null,
+      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_625a71d4-db95-4026-add7-744b86c7a567/14/256",
       "instanceName": "36699",
       "location": "wrld_266523e8-9161-40da-acd0-6bd82e075833:36699~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(plus)~ageGate~region(use)",
       "region": "use",
       "accessType": "plus",
       "ageGate": true,
       "userCount": 1,
-      "capacity": null,
+      "capacity": 80,
       "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_266523e8-9161-40da-acd0-6bd82e075833\u0026instanceId=36699~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28plus%29~ageGate~region%28use%29",
       "worldImageCachedUrl": null,
-      "firstSeenAtUtc": null,
-      "openedAtUtc": null,
-      "openedBy": null
+      "firstSeenAtUtc": "2026-11-10T16:24:34Z",
+      "openedAtUtc": "2026-11-10T16:24:34Z",
+      "openedBy": {
+        "name": null,
+        "role": "member"
+      }
     },
     {
       "worldId": "wrld_3edb543b-bd8e-4ae0-8592-93678bc62456",
