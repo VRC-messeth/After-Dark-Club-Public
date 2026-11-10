@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "kind": "afterdark.hosts",
-  "generatedAtUtc": "2026-11-09T08:49:57Z",
+  "generatedAtUtc": "2026-11-10T17:23:07Z",
   "gateAllowed": true,
   "groups": [
     {
@@ -10,7 +10,7 @@
       "name": "The Tangle",
       "groupId": "grp_edd2b751-a7f8-4318-b01c-5bbb719570c9",
       "active": true,
-      "validUntilUtc": "2026-11-11T17:05:24Z",
+      "validUntilUtc": "2026-11-13T17:23:04Z",
       "tier": "prime",
       "owner": "EmersedTheFox",
       "hosts": [
