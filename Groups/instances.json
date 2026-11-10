@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-10T16:23:20Z",
+  "generatedAtUtc": "2026-11-10T16:25:22Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
   },
-  "totalUsers": 8,
+  "totalUsers": 9,
   "instances": [
     {
       "worldId": "wrld_ae001ea3-ed05-42f0-adf2-3d47efd10a77",
@@ -33,12 +33,29 @@
       "region": "use",
       "accessType": "public",
       "ageGate": true,
-      "userCount": 2,
+      "userCount": 3,
       "capacity": 80,
       "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_3c231334-2f20-442f-924c-a504d9f98543\u0026instanceId=61114~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28use%29",
       "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_525d6166-e25b-4ece-921f-da69b11cb10c_14.png",
       "firstSeenAtUtc": "2026-11-09T19:34:31Z",
       "openedAtUtc": "2026-11-09T00:10:27Z",
+      "openedBy": null
+    },
+    {
+      "worldId": "wrld_266523e8-9161-40da-acd0-6bd82e075833",
+      "worldName": "Popcorn Palace",
+      "worldImageUrl": null,
+      "instanceName": "36699",
+      "location": "wrld_266523e8-9161-40da-acd0-6bd82e075833:36699~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(plus)~ageGate~region(use)",
+      "region": "use",
+      "accessType": "plus",
+      "ageGate": true,
+      "userCount": 1,
+      "capacity": null,
+      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_266523e8-9161-40da-acd0-6bd82e075833\u0026instanceId=36699~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28plus%29~ageGate~region%28use%29",
+      "worldImageCachedUrl": null,
+      "firstSeenAtUtc": null,
+      "openedAtUtc": null,
       "openedBy": null
     },
     {
@@ -60,23 +77,6 @@
         "name": null,
         "role": "member"
       }
-    },
-    {
-      "worldId": "wrld_ba727d7e-221e-4f55-bb4e-04b31db093ea",
-      "worldName": "Steal an egg\u01C3",
-      "worldImageUrl": null,
-      "instanceName": "03890",
-      "location": "wrld_ba727d7e-221e-4f55-bb4e-04b31db093ea:03890~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(public)~ageGate~region(use)",
-      "region": "use",
-      "accessType": "public",
-      "ageGate": true,
-      "userCount": 1,
-      "capacity": null,
-      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_ba727d7e-221e-4f55-bb4e-04b31db093ea\u0026instanceId=03890~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28use%29",
-      "worldImageCachedUrl": null,
-      "firstSeenAtUtc": null,
-      "openedAtUtc": null,
-      "openedBy": null
     }
   ]
 }
