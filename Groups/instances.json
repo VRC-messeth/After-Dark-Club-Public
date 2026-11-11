@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-11T20:05:08Z",
+  "generatedAtUtc": "2026-11-11T20:07:11Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
@@ -16,7 +16,7 @@
       "region": "use",
       "accessType": "public",
       "ageGate": true,
-      "userCount": 23,
+      "userCount": 22,
       "capacity": 25,
       "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_ae001ea3-ed05-42f0-adf2-3d47efd10a77\u0026instanceId=23591~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28use%29",
       "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_32c72b6b-2d1b-4d19-8fba-581735500ad2_8.png",
@@ -79,6 +79,26 @@
       "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_48666cc8-39c9-4271-ac7a-1819404c6cdf_3.png",
       "firstSeenAtUtc": "2026-11-09T19:34:31Z",
       "openedAtUtc": "2026-11-09T00:23:26Z",
+      "openedBy": {
+        "name": null,
+        "role": "member"
+      }
+    },
+    {
+      "worldId": "wrld_60fb93f8-bc6d-4812-902a-7c7e9491b61a",
+      "worldName": "Cards Against Humanity",
+      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_fca00b6f-05f3-4b46-a9d6-259b6efde797/4/256",
+      "instanceName": "35228",
+      "location": "wrld_60fb93f8-bc6d-4812-902a-7c7e9491b61a:35228~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(public)~ageGate~region(us)",
+      "region": "us",
+      "accessType": "public",
+      "ageGate": true,
+      "userCount": 1,
+      "capacity": 24,
+      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_60fb93f8-bc6d-4812-902a-7c7e9491b61a\u0026instanceId=35228~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28us%29",
+      "worldImageCachedUrl": null,
+      "firstSeenAtUtc": "2026-11-11T19:34:40Z",
+      "openedAtUtc": "2026-11-11T19:34:40Z",
       "openedBy": {
         "name": null,
         "role": "member"
