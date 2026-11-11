@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "kind": "afterdark.hosts",
-  "generatedAtUtc": "2026-11-10T17:23:07Z",
+  "generatedAtUtc": "2026-11-11T11:56:32Z",
   "gateAllowed": true,
   "groups": [
     {
@@ -36,7 +36,7 @@
       "name": "Cartis Lounge",
       "groupId": "grp_c8d5bef4-f2e2-4604-b60c-0c6a25939516",
       "active": true,
-      "validUntilUtc": "2026-11-12T08:49:57Z",
+      "validUntilUtc": "2026-11-14T11:56:29Z",
       "tier": "prime",
       "owner": "Carti_Angel",
       "hosts": [
