@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-11T21:50:34Z",
+  "generatedAtUtc": "2026-11-11T21:52:38Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
   },
-  "totalUsers": 34,
+  "totalUsers": 35,
   "instances": [
     {
       "worldId": "wrld_ae001ea3-ed05-42f0-adf2-3d47efd10a77",
@@ -25,6 +25,26 @@
       "openedBy": null
     },
     {
+      "worldId": "wrld_14750dd6-26a1-4edb-ae67-cac5bcd9ed6a",
+      "worldName": "Prison Escape",
+      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_90027981-6a50-4097-86e7-d7ea62050a14/15/256",
+      "instanceName": "87504",
+      "location": "wrld_14750dd6-26a1-4edb-ae67-cac5bcd9ed6a:87504~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(public)~ageGate~region(use)",
+      "region": "use",
+      "accessType": "public",
+      "ageGate": true,
+      "userCount": 5,
+      "capacity": 32,
+      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_14750dd6-26a1-4edb-ae67-cac5bcd9ed6a\u0026instanceId=87504~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28use%29",
+      "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_90027981-6a50-4097-86e7-d7ea62050a14_15.png",
+      "firstSeenAtUtc": "2026-11-11T19:49:28Z",
+      "openedAtUtc": "2026-11-11T19:49:28Z",
+      "openedBy": {
+        "name": null,
+        "role": "member"
+      }
+    },
+    {
       "worldId": "wrld_60fb93f8-bc6d-4812-902a-7c7e9491b61a",
       "worldName": "Cards Against Humanity",
       "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_fca00b6f-05f3-4b46-a9d6-259b6efde797/4/256",
@@ -39,26 +59,6 @@
       "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_fca00b6f-05f3-4b46-a9d6-259b6efde797_4.png",
       "firstSeenAtUtc": "2026-11-11T19:34:40Z",
       "openedAtUtc": "2026-11-11T19:34:40Z",
-      "openedBy": {
-        "name": null,
-        "role": "member"
-      }
-    },
-    {
-      "worldId": "wrld_14750dd6-26a1-4edb-ae67-cac5bcd9ed6a",
-      "worldName": "Prison Escape",
-      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_90027981-6a50-4097-86e7-d7ea62050a14/15/256",
-      "instanceName": "87504",
-      "location": "wrld_14750dd6-26a1-4edb-ae67-cac5bcd9ed6a:87504~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(public)~ageGate~region(use)",
-      "region": "use",
-      "accessType": "public",
-      "ageGate": true,
-      "userCount": 4,
-      "capacity": 32,
-      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_14750dd6-26a1-4edb-ae67-cac5bcd9ed6a\u0026instanceId=87504~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28use%29",
-      "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_90027981-6a50-4097-86e7-d7ea62050a14_15.png",
-      "firstSeenAtUtc": "2026-11-11T19:49:28Z",
-      "openedAtUtc": "2026-11-11T19:49:28Z",
       "openedBy": {
         "name": null,
         "role": "member"
