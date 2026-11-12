@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-12T01:28:25Z",
+  "generatedAtUtc": "2026-11-12T01:30:29Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
   },
-  "totalUsers": 27,
+  "totalUsers": 29,
   "instances": [
     {
       "worldId": "wrld_ae001ea3-ed05-42f0-adf2-3d47efd10a77",
@@ -16,7 +16,7 @@
       "region": "use",
       "accessType": "public",
       "ageGate": true,
-      "userCount": 17,
+      "userCount": 18,
       "capacity": 25,
       "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_ae001ea3-ed05-42f0-adf2-3d47efd10a77\u0026instanceId=23591~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28use%29",
       "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_32c72b6b-2d1b-4d19-8fba-581735500ad2_8.png",
@@ -82,6 +82,26 @@
       "openedBy": {
         "name": "messeth",
         "role": "REX"
+      }
+    },
+    {
+      "worldId": "wrld_417e6eef-0b91-4422-94e8-c5a5cad50f67",
+      "worldName": "VR BOWLING",
+      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_8f99d02d-6fdf-4cd3-86a2-15121faefc95/4/256",
+      "instanceName": "80579",
+      "location": "wrld_417e6eef-0b91-4422-94e8-c5a5cad50f67:80579~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(public)~ageGate~region(eu)",
+      "region": "eu",
+      "accessType": "public",
+      "ageGate": true,
+      "userCount": 1,
+      "capacity": 24,
+      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_417e6eef-0b91-4422-94e8-c5a5cad50f67\u0026instanceId=80579~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28eu%29",
+      "worldImageCachedUrl": null,
+      "firstSeenAtUtc": "2026-11-12T01:27:39Z",
+      "openedAtUtc": "2026-11-12T01:27:39Z",
+      "openedBy": {
+        "name": null,
+        "role": "member"
       }
     }
   ]
