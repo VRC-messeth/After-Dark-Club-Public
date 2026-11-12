@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-12T06:36:52Z",
+  "generatedAtUtc": "2026-11-12T06:38:14Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
   },
-  "totalUsers": 33,
+  "totalUsers": 35,
   "instances": [
     {
       "worldId": "wrld_ae001ea3-ed05-42f0-adf2-3d47efd10a77",
@@ -42,6 +42,26 @@
       "openedBy": {
         "name": "messeth",
         "role": "REX"
+      }
+    },
+    {
+      "worldId": "wrld_e0d22d88-a2f6-4547-a95b-2ea912b89cba",
+      "worldName": "Zombies Trinity Playtest 31",
+      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_9cd188ac-7ea6-429a-96c4-f188da83f2a5/7/256",
+      "instanceName": "11475",
+      "location": "wrld_e0d22d88-a2f6-4547-a95b-2ea912b89cba:11475~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(plus)~ageGate~region(us)",
+      "region": "us",
+      "accessType": "plus",
+      "ageGate": true,
+      "userCount": 2,
+      "capacity": 12,
+      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_e0d22d88-a2f6-4547-a95b-2ea912b89cba\u0026instanceId=11475~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28plus%29~ageGate~region%28us%29",
+      "worldImageCachedUrl": null,
+      "firstSeenAtUtc": "2026-11-12T06:35:08Z",
+      "openedAtUtc": "2026-11-12T06:35:08Z",
+      "openedBy": {
+        "name": null,
+        "role": "member"
       }
     },
     {
