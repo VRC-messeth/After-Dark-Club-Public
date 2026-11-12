@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-12T23:15:32Z",
+  "generatedAtUtc": "2026-11-12T23:18:14Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
   },
-  "totalUsers": 38,
+  "totalUsers": 35,
   "instances": [
     {
       "worldId": "wrld_ae001ea3-ed05-42f0-adf2-3d47efd10a77",
@@ -16,7 +16,7 @@
       "region": "use",
       "accessType": "public",
       "ageGate": true,
-      "userCount": 23,
+      "userCount": 22,
       "capacity": 25,
       "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_ae001ea3-ed05-42f0-adf2-3d47efd10a77\u0026instanceId=23591~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28use%29",
       "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_32c72b6b-2d1b-4d19-8fba-581735500ad2_8.png",
@@ -33,7 +33,7 @@
       "region": "use",
       "accessType": "public",
       "ageGate": true,
-      "userCount": 11,
+      "userCount": 10,
       "capacity": 80,
       "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_3c231334-2f20-442f-924c-a504d9f98543\u0026instanceId=84757~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28use%29",
       "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_525d6166-e25b-4ece-921f-da69b11cb10c_14.png",
@@ -62,26 +62,6 @@
       "openedBy": {
         "name": "messeth",
         "role": "REX"
-      }
-    },
-    {
-      "worldId": "wrld_266523e8-9161-40da-acd0-6bd82e075833",
-      "worldName": "Popcorn Palace",
-      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_625a71d4-db95-4026-add7-744b86c7a567/14/256",
-      "instanceName": "46752",
-      "location": "wrld_266523e8-9161-40da-acd0-6bd82e075833:46752~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(public)~ageGate~region(us)",
-      "region": "us",
-      "accessType": "public",
-      "ageGate": true,
-      "userCount": 1,
-      "capacity": 80,
-      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_266523e8-9161-40da-acd0-6bd82e075833\u0026instanceId=46752~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28us%29",
-      "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_625a71d4-db95-4026-add7-744b86c7a567_14.png",
-      "firstSeenAtUtc": "2026-11-12T21:03:35Z",
-      "openedAtUtc": "2026-11-12T21:03:35Z",
-      "openedBy": {
-        "name": null,
-        "role": "member"
       }
     }
   ]
