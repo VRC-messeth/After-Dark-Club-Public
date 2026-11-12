@@ -1,12 +1,32 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-12T05:40:22Z",
+  "generatedAtUtc": "2026-11-12T05:42:26Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
   },
-  "totalUsers": 31,
+  "totalUsers": 32,
   "instances": [
+    {
+      "worldId": "wrld_3edb543b-bd8e-4ae0-8592-93678bc62456",
+      "worldName": "After Dark Club",
+      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_48666cc8-39c9-4271-ac7a-1819404c6cdf/3/256",
+      "instanceName": "58299",
+      "location": "wrld_3edb543b-bd8e-4ae0-8592-93678bc62456:58299~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(public)~ageGate~region(use)",
+      "region": "use",
+      "accessType": "public",
+      "ageGate": true,
+      "userCount": 14,
+      "capacity": 80,
+      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_3edb543b-bd8e-4ae0-8592-93678bc62456\u0026instanceId=58299~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28use%29",
+      "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_48666cc8-39c9-4271-ac7a-1819404c6cdf_3.png",
+      "firstSeenAtUtc": "2026-11-12T00:32:06Z",
+      "openedAtUtc": "2026-11-12T00:32:06Z",
+      "openedBy": {
+        "name": "messeth",
+        "role": "REX"
+      }
+    },
     {
       "worldId": "wrld_ae001ea3-ed05-42f0-adf2-3d47efd10a77",
       "worldName": "FISH \u01C3 \uFF3BHALLOWEEN\uFF3D",
@@ -23,26 +43,6 @@
       "firstSeenAtUtc": "2026-11-09T20:11:57Z",
       "openedAtUtc": "2026-11-05T22:17:16Z",
       "openedBy": null
-    },
-    {
-      "worldId": "wrld_3edb543b-bd8e-4ae0-8592-93678bc62456",
-      "worldName": "After Dark Club",
-      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_48666cc8-39c9-4271-ac7a-1819404c6cdf/3/256",
-      "instanceName": "58299",
-      "location": "wrld_3edb543b-bd8e-4ae0-8592-93678bc62456:58299~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(public)~ageGate~region(use)",
-      "region": "use",
-      "accessType": "public",
-      "ageGate": true,
-      "userCount": 13,
-      "capacity": 80,
-      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_3edb543b-bd8e-4ae0-8592-93678bc62456\u0026instanceId=58299~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28use%29",
-      "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_48666cc8-39c9-4271-ac7a-1819404c6cdf_3.png",
-      "firstSeenAtUtc": "2026-11-12T00:32:06Z",
-      "openedAtUtc": "2026-11-12T00:32:06Z",
-      "openedBy": {
-        "name": "messeth",
-        "role": "REX"
-      }
     },
     {
       "worldId": "wrld_3c231334-2f20-442f-924c-a504d9f98543",
