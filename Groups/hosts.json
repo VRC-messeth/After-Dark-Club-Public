@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "kind": "afterdark.hosts",
-  "generatedAtUtc": "2026-11-11T11:56:32Z",
+  "generatedAtUtc": "2026-11-13T19:02:07Z",
   "gateAllowed": true,
   "groups": [
     {
@@ -10,7 +10,7 @@
       "name": "The Tangle",
       "groupId": "grp_edd2b751-a7f8-4318-b01c-5bbb719570c9",
       "active": true,
-      "validUntilUtc": "2026-11-13T17:23:04Z",
+      "validUntilUtc": "2026-11-16T19:01:59Z",
       "tier": "prime",
       "owner": "EmersedTheFox",
       "hosts": [
@@ -36,7 +36,7 @@
       "name": "Cartis Lounge",
       "groupId": "grp_c8d5bef4-f2e2-4604-b60c-0c6a25939516",
       "active": true,
-      "validUntilUtc": "2026-11-14T11:56:29Z",
+      "validUntilUtc": "2026-11-16T19:01:59Z",
       "tier": "prime",
       "owner": "Carti_Angel",
       "hosts": [
