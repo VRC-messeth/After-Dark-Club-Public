@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-14T01:42:30Z",
+  "generatedAtUtc": "2026-11-14T01:44:33Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
   },
-  "totalUsers": 69,
+  "totalUsers": 72,
   "instances": [
     {
       "worldId": "wrld_3c231334-2f20-442f-924c-a504d9f98543",
@@ -16,7 +16,7 @@
       "region": "use",
       "accessType": "public",
       "ageGate": true,
-      "userCount": 42,
+      "userCount": 47,
       "capacity": 80,
       "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_3c231334-2f20-442f-924c-a504d9f98543\u0026instanceId=85166~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28use%29",
       "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_525d6166-e25b-4ece-921f-da69b11cb10c_14.png",
@@ -43,26 +43,6 @@
       "firstSeenAtUtc": "2026-11-09T20:11:57Z",
       "openedAtUtc": "2026-11-05T22:17:16Z",
       "openedBy": null
-    },
-    {
-      "worldId": "wrld_27268286-fc02-4b7f-94b4-1ff43244f805",
-      "worldName": "FELONY HOOKAH LOUNGE",
-      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_e624e74d-fe0f-4f68-9c12-e21879a99888/2/256",
-      "instanceName": "67013",
-      "location": "wrld_27268286-fc02-4b7f-94b4-1ff43244f805:67013~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(public)~ageGate~region(us)",
-      "region": "us",
-      "accessType": "public",
-      "ageGate": true,
-      "userCount": 2,
-      "capacity": 32,
-      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_27268286-fc02-4b7f-94b4-1ff43244f805\u0026instanceId=67013~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28us%29",
-      "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_e624e74d-fe0f-4f68-9c12-e21879a99888_2.png",
-      "firstSeenAtUtc": "2026-11-14T01:18:11Z",
-      "openedAtUtc": "2026-11-14T01:18:11Z",
-      "openedBy": {
-        "name": null,
-        "role": "member"
-      }
     },
     {
       "worldId": "wrld_3edb543b-bd8e-4ae0-8592-93678bc62456",
