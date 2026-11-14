@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-14T00:16:46Z",
+  "generatedAtUtc": "2026-11-14T00:19:29Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
   },
-  "totalUsers": 64,
+  "totalUsers": 70,
   "instances": [
     {
       "worldId": "wrld_3c231334-2f20-442f-924c-a504d9f98543",
@@ -16,7 +16,7 @@
       "region": "use",
       "accessType": "public",
       "ageGate": true,
-      "userCount": 37,
+      "userCount": 43,
       "capacity": 80,
       "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_3c231334-2f20-442f-924c-a504d9f98543\u0026instanceId=85166~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28use%29",
       "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_525d6166-e25b-4ece-921f-da69b11cb10c_14.png",
@@ -36,7 +36,7 @@
       "region": "use",
       "accessType": "public",
       "ageGate": true,
-      "userCount": 25,
+      "userCount": 24,
       "capacity": 25,
       "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_ae001ea3-ed05-42f0-adf2-3d47efd10a77\u0026instanceId=23591~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28use%29",
       "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_32c72b6b-2d1b-4d19-8fba-581735500ad2_8.png",
@@ -62,6 +62,26 @@
       "openedBy": {
         "name": "messeth",
         "role": "REX"
+      }
+    },
+    {
+      "worldId": "wrld_d35776bf-48d7-4359-b8a0-9f04c883437e",
+      "worldName": "MOOROOM for Two",
+      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_955876c5-dc3a-4260-b657-837c1535b63c/3/256",
+      "instanceName": "56474",
+      "location": "wrld_d35776bf-48d7-4359-b8a0-9f04c883437e:56474~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(public)~ageGate~region(us)",
+      "region": "us",
+      "accessType": "public",
+      "ageGate": true,
+      "userCount": 1,
+      "capacity": 2,
+      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_d35776bf-48d7-4359-b8a0-9f04c883437e\u0026instanceId=56474~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28us%29",
+      "worldImageCachedUrl": null,
+      "firstSeenAtUtc": "2026-11-14T00:17:45Z",
+      "openedAtUtc": "2026-11-14T00:17:45Z",
+      "openedBy": {
+        "name": null,
+        "role": "member"
       }
     }
   ]
