@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-15T20:04:36Z",
+  "generatedAtUtc": "2026-11-15T20:05:17Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
   },
-  "totalUsers": 19,
+  "totalUsers": 20,
   "instances": [
     {
       "worldId": "wrld_0f2ec2c6-adbf-4bde-8739-e68052f0da27",
@@ -79,6 +79,26 @@
       "openedBy": {
         "name": "messeth",
         "role": "REX"
+      }
+    },
+    {
+      "worldId": "wrld_fc51b8bb-9fd9-483e-bfa9-eb70ff3a8d8f",
+      "worldName": "\u51A5\u6EE9\u9152\u5427\uFF5CDeathStranding",
+      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_e49700d5-736d-4fae-81c5-73841d0bcc74/2/256",
+      "instanceName": "70430",
+      "location": "wrld_fc51b8bb-9fd9-483e-bfa9-eb70ff3a8d8f:70430~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(members)~ageGate~region(jp)",
+      "region": "jp",
+      "accessType": "members",
+      "ageGate": true,
+      "userCount": 1,
+      "capacity": 30,
+      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_fc51b8bb-9fd9-483e-bfa9-eb70ff3a8d8f\u0026instanceId=70430~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28members%29~ageGate~region%28jp%29",
+      "worldImageCachedUrl": null,
+      "firstSeenAtUtc": "2026-11-15T20:02:16Z",
+      "openedAtUtc": "2026-11-15T20:02:16Z",
+      "openedBy": {
+        "name": null,
+        "role": "member"
       }
     }
   ]
