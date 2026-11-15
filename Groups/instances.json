@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-15T06:37:38Z",
+  "generatedAtUtc": "2026-11-15T06:45:44Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
   },
-  "totalUsers": 11,
+  "totalUsers": 8,
   "instances": [
     {
       "worldId": "wrld_ae001ea3-ed05-42f0-adf2-3d47efd10a77",
@@ -23,26 +23,6 @@
       "firstSeenAtUtc": "2026-11-09T20:11:57Z",
       "openedAtUtc": "2026-11-05T22:17:16Z",
       "openedBy": null
-    },
-    {
-      "worldId": "wrld_0f2ec2c6-adbf-4bde-8739-e68052f0da27",
-      "worldName": "WordSearch Palace",
-      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_a49e6b99-6dac-4e65-b1ad-e4076e868794/8/256",
-      "instanceName": "01636",
-      "location": "wrld_0f2ec2c6-adbf-4bde-8739-e68052f0da27:01636~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(public)~ageGate~region(us)",
-      "region": "us",
-      "accessType": "public",
-      "ageGate": true,
-      "userCount": 3,
-      "capacity": 64,
-      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_0f2ec2c6-adbf-4bde-8739-e68052f0da27\u0026instanceId=01636~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28us%29",
-      "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_a49e6b99-6dac-4e65-b1ad-e4076e868794_8.png",
-      "firstSeenAtUtc": "2026-11-14T23:47:09Z",
-      "openedAtUtc": "2026-11-14T23:47:09Z",
-      "openedBy": {
-        "name": null,
-        "role": "member"
-      }
     },
     {
       "worldId": "wrld_3c231334-2f20-442f-924c-a504d9f98543",
