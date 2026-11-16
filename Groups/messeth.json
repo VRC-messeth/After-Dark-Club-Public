@@ -1,7 +1,7 @@
 {
  "schemaVersion": 2,
  "hostLock": true,
- "generatedAtUtc": "2026-11-12T23:44:45.3725509Z",
+ "generatedAtUtc": "2026-11-16T01:19:52.0028533Z",
  "group": {
   "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
   "name": "After Dark"
@@ -60,6 +60,7 @@
   ],
   "CORE": [
    "ARDONIS SAINT",
+   "JJBIGDADDY1",
    "Kainé W",
    "Krace",
    "Soondithy",
