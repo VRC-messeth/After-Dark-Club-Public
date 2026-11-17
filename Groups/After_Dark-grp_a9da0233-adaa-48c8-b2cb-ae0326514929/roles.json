@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "hostLock": true,
-  "generatedAtUtc": "2026-11-16T01:19:52.0028533Z",
+  "generatedAtUtc": "2026-11-17T19:55:47.7460278Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
@@ -13,7 +13,8 @@
     "APEX",
     "PRIME",
     "CORE",
-    "WATCHER"
+    "WATCHER",
+    "BOT"
   ],
   "members": [
     {
@@ -28,6 +29,13 @@
       "userId": "usr_4ef75128-34ec-4b4f-97c3-4a7403cb9e6f",
       "roles": [
         "MOD"
+      ]
+    },
+    {
+      "displayName": "After Dark Bot",
+      "userId": "usr_94b919b7-0d5b-4e8b-a779-faf51fc8927d",
+      "roles": [
+        "BOT"
       ]
     },
     {
