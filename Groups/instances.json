@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-17T16:26:02Z",
+  "generatedAtUtc": "2026-11-17T16:29:50Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
   },
-  "totalUsers": 25,
+  "totalUsers": 28,
   "instances": [
     {
       "worldId": "wrld_3c231334-2f20-442f-924c-a504d9f98543",
@@ -16,7 +16,7 @@
       "region": "use",
       "accessType": "public",
       "ageGate": true,
-      "userCount": 18,
+      "userCount": 19,
       "capacity": 80,
       "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_3c231334-2f20-442f-924c-a504d9f98543\u0026instanceId=85166~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28use%29",
       "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_525d6166-e25b-4ece-921f-da69b11cb10c_14.png",
@@ -43,6 +43,26 @@
       "firstSeenAtUtc": "2026-11-09T20:11:57Z",
       "openedAtUtc": "2026-11-05T22:17:16Z",
       "openedBy": null
+    },
+    {
+      "worldId": "wrld_3a03fa73-b6c8-4116-8785-40fbe353b9b2",
+      "worldName": "GSVR - ROSE Online",
+      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_37417869-e135-44aa-9b4d-0e3f1a41a1e7/2/256",
+      "instanceName": "74358",
+      "location": "wrld_3a03fa73-b6c8-4116-8785-40fbe353b9b2:74358~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(public)~ageGate~region(eu)",
+      "region": "eu",
+      "accessType": "public",
+      "ageGate": true,
+      "userCount": 2,
+      "capacity": 8,
+      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_3a03fa73-b6c8-4116-8785-40fbe353b9b2\u0026instanceId=74358~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28eu%29",
+      "worldImageCachedUrl": null,
+      "firstSeenAtUtc": "2026-11-17T16:25:49Z",
+      "openedAtUtc": "2026-11-17T16:25:49Z",
+      "openedBy": {
+        "name": null,
+        "role": "member"
+      }
     },
     {
       "worldId": "wrld_3edb543b-bd8e-4ae0-8592-93678bc62456",
