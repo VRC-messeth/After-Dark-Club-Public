@@ -1,7 +1,7 @@
 {
  "schemaVersion": 2,
  "hostLock": true,
- "generatedAtUtc": "2026-11-16T01:19:52.0028533Z",
+ "generatedAtUtc": "2026-11-17T19:55:47.7460278Z",
  "group": {
   "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
   "name": "After Dark"
@@ -65,6 +65,9 @@
    "Krace",
    "Soondithy",
    "TB_HyDra"
+  ],
+  "BOT": [
+   "After Dark Bot"
   ]
  }
 }
