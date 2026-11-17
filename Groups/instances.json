@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-17T16:02:44Z",
+  "generatedAtUtc": "2026-11-17T16:04:06Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
   },
-  "totalUsers": 24,
+  "totalUsers": 25,
   "instances": [
     {
       "worldId": "wrld_3c231334-2f20-442f-924c-a504d9f98543",
@@ -59,6 +59,26 @@
       "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_48666cc8-39c9-4271-ac7a-1819404c6cdf_3.png",
       "firstSeenAtUtc": "2026-11-16T12:08:05Z",
       "openedAtUtc": "2026-11-16T12:08:05Z",
+      "openedBy": {
+        "name": null,
+        "role": "member"
+      }
+    },
+    {
+      "worldId": "wrld_b98fbb17-dc5a-4815-9344-b742a94e8325",
+      "worldName": "The Lost Library \uFF3BPublic\u2044Classic Edition\uFF3D",
+      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_0010e2f1-a4c2-409d-a7c8-3caabd43a957/4/256",
+      "instanceName": "34354",
+      "location": "wrld_b98fbb17-dc5a-4815-9344-b742a94e8325:34354~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(public)~ageGate~region(us)",
+      "region": "us",
+      "accessType": "public",
+      "ageGate": true,
+      "userCount": 1,
+      "capacity": 80,
+      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_b98fbb17-dc5a-4815-9344-b742a94e8325\u0026instanceId=34354~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28us%29",
+      "worldImageCachedUrl": null,
+      "firstSeenAtUtc": "2026-11-17T15:59:28Z",
+      "openedAtUtc": "2026-11-17T15:59:28Z",
       "openedBy": {
         "name": null,
         "role": "member"
