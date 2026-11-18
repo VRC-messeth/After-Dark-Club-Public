@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-18T05:34:19Z",
+  "generatedAtUtc": "2026-11-18T05:34:20Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
   },
-  "totalUsers": 33,
+  "totalUsers": 29,
   "instances": [
     {
       "worldId": "wrld_ae001ea3-ed05-42f0-adf2-3d47efd10a77",
@@ -62,26 +62,6 @@
       "openedBy": {
         "name": "messeth",
         "role": "REX"
-      }
-    },
-    {
-      "worldId": "wrld_da9f25e6-1b1e-485c-8995-e791a02e8014",
-      "worldName": "Thunder Tavern \u00B7 Party \uFF06 Games",
-      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_fca11289-9726-43d0-b41b-cf1068d9375f/54/256",
-      "instanceName": "57875",
-      "location": "wrld_da9f25e6-1b1e-485c-8995-e791a02e8014:57875~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(public)~ageGate~region(us)",
-      "region": "us",
-      "accessType": "public",
-      "ageGate": true,
-      "userCount": 4,
-      "capacity": 80,
-      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_da9f25e6-1b1e-485c-8995-e791a02e8014\u0026instanceId=57875~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28us%29",
-      "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_fca11289-9726-43d0-b41b-cf1068d9375f_54.png",
-      "firstSeenAtUtc": "2026-11-18T05:07:26Z",
-      "openedAtUtc": "2026-11-18T05:07:26Z",
-      "openedBy": {
-        "name": null,
-        "role": "member"
       }
     }
   ]
