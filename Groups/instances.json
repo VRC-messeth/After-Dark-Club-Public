@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-18T15:19:20Z",
+  "generatedAtUtc": "2026-11-18T15:20:04Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
@@ -76,7 +76,7 @@
       "userCount": 1,
       "capacity": 2,
       "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_b8562984-4c23-4374-9421-47e1495de24b\u0026instanceId=85868~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28use%29",
-      "worldImageCachedUrl": null,
+      "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_d752eeda-3429-4e6a-8531-8522b613cfb9_8.png",
       "firstSeenAtUtc": "2026-11-18T15:14:43Z",
       "openedAtUtc": "2026-11-18T15:14:43Z",
       "openedBy": {
