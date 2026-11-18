@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "hostLock": true,
-  "generatedAtUtc": "2026-11-17T19:55:47.7460278Z",
+  "generatedAtUtc": "2026-11-18T15:58:51.4177354Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
@@ -78,6 +78,13 @@
       "userId": "usr_e16b8054-0afe-448b-b15e-74f2a324a407",
       "roles": [
         "APEX"
+      ]
+    },
+    {
+      "displayName": "CosmicManatee",
+      "userId": "usr_3ee01ae2-26e6-4799-8aea-6f9baee3d8f4",
+      "roles": [
+        "CORE"
       ]
     },
     {
