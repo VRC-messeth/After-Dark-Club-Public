@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-19T14:50:01Z",
+  "generatedAtUtc": "2026-11-19T14:58:52Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
   },
-  "totalUsers": 5,
+  "totalUsers": 6,
   "instances": [
     {
       "worldId": "wrld_3c231334-2f20-442f-924c-a504d9f98543",
@@ -42,6 +42,26 @@
       "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_48666cc8-39c9-4271-ac7a-1819404c6cdf_3.png",
       "firstSeenAtUtc": "2026-11-19T13:46:59Z",
       "openedAtUtc": "2026-11-19T13:46:59Z",
+      "openedBy": {
+        "name": null,
+        "role": "member"
+      }
+    },
+    {
+      "worldId": "wrld_71873c79-8c28-4e13-a311-8af1e16bf703",
+      "worldName": "Anthro Heat Lockers and Sauna",
+      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_081a35d8-b32a-488a-b6dc-9ac476a32eaf/1/256",
+      "instanceName": "96564",
+      "location": "wrld_71873c79-8c28-4e13-a311-8af1e16bf703:96564~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(public)~ageGate~region(use)",
+      "region": "use",
+      "accessType": "public",
+      "ageGate": true,
+      "userCount": 1,
+      "capacity": 30,
+      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_71873c79-8c28-4e13-a311-8af1e16bf703\u0026instanceId=96564~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28use%29",
+      "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_081a35d8-b32a-488a-b6dc-9ac476a32eaf_1.png",
+      "firstSeenAtUtc": "2026-11-19T14:54:53Z",
+      "openedAtUtc": "2026-11-19T14:54:53Z",
       "openedBy": {
         "name": null,
         "role": "member"
