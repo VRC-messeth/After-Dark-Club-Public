@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-19T15:22:43Z",
+  "generatedAtUtc": "2026-11-19T15:34:05Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
   },
-  "totalUsers": 8,
+  "totalUsers": 6,
   "instances": [
     {
       "worldId": "wrld_3c231334-2f20-442f-924c-a504d9f98543",
@@ -25,26 +25,6 @@
       "openedBy": {
         "name": "messeth",
         "role": "REX"
-      }
-    },
-    {
-      "worldId": "wrld_394f4cd9-e2e9-45d6-bf81-414941bd8be6",
-      "worldName": "Public Toilet",
-      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_5acf6af3-dd22-43ac-a5cc-d74ecc883d58/1/256",
-      "instanceName": "03571",
-      "location": "wrld_394f4cd9-e2e9-45d6-bf81-414941bd8be6:03571~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(public)~ageGate~region(use)",
-      "region": "use",
-      "accessType": "public",
-      "ageGate": true,
-      "userCount": 2,
-      "capacity": 24,
-      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_394f4cd9-e2e9-45d6-bf81-414941bd8be6\u0026instanceId=03571~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28use%29",
-      "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_5acf6af3-dd22-43ac-a5cc-d74ecc883d58_1.png",
-      "firstSeenAtUtc": "2026-11-19T15:04:42Z",
-      "openedAtUtc": "2026-11-19T15:04:42Z",
-      "openedBy": {
-        "name": null,
-        "role": "member"
       }
     },
     {
