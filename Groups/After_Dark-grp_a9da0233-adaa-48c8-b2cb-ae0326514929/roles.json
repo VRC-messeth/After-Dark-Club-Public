@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "hostLock": true,
-  "generatedAtUtc": "2026-11-19T04:11:16.3505738Z",
+  "generatedAtUtc": "2026-11-20T01:47:40.1778521Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
@@ -43,13 +43,6 @@
       "userId": "usr_ec58f85f-bd42-4ac9-86dc-160501ca8e78",
       "roles": [
         "MOD"
-      ]
-    },
-    {
-      "displayName": "ARDONIS SAINT",
-      "userId": "usr_8198ec5f-8e62-4a1e-b823-17deef0c80ff",
-      "roles": [
-        "CORE"
       ]
     },
     {
