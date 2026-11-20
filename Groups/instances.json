@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-20T09:42:42Z",
+  "generatedAtUtc": "2026-11-20T09:44:44Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
   },
-  "totalUsers": 42,
+  "totalUsers": 44,
   "instances": [
     {
       "worldId": "wrld_3c231334-2f20-442f-924c-a504d9f98543",
@@ -16,7 +16,7 @@
       "region": "use",
       "accessType": "public",
       "ageGate": true,
-      "userCount": 37,
+      "userCount": 40,
       "capacity": 80,
       "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_3c231334-2f20-442f-924c-a504d9f98543\u0026instanceId=85166~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28use%29",
       "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_525d6166-e25b-4ece-921f-da69b11cb10c_14.png",
@@ -42,26 +42,6 @@
       "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_48666cc8-39c9-4271-ac7a-1819404c6cdf_3.png",
       "firstSeenAtUtc": "2026-11-19T13:46:59Z",
       "openedAtUtc": "2026-11-19T13:46:59Z",
-      "openedBy": {
-        "name": null,
-        "role": "member"
-      }
-    },
-    {
-      "worldId": "wrld_2939e341-372e-44d7-b401-304d87d33363",
-      "worldName": "Grow Your Garden \u5EAD\u3092\u80B2\u3066\u3088\u3046 \uFF3BFROST FAIR\uFF3D",
-      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_45a85574-f9be-4f00-a14a-01296ab18623/9/256",
-      "instanceName": "74058",
-      "location": "wrld_2939e341-372e-44d7-b401-304d87d33363:74058~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(plus)~region(us)",
-      "region": "us",
-      "accessType": "plus",
-      "ageGate": false,
-      "userCount": 1,
-      "capacity": 18,
-      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_2939e341-372e-44d7-b401-304d87d33363\u0026instanceId=74058~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28plus%29~region%28us%29",
-      "worldImageCachedUrl": null,
-      "firstSeenAtUtc": "2026-11-20T09:38:51Z",
-      "openedAtUtc": "2026-11-20T09:38:51Z",
       "openedBy": {
         "name": null,
         "role": "member"
