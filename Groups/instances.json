@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-21T09:06:04Z",
+  "generatedAtUtc": "2026-11-21T09:16:54Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
   },
-  "totalUsers": 7,
+  "totalUsers": 5,
   "instances": [
     {
       "worldId": "wrld_3edb543b-bd8e-4ae0-8592-93678bc62456",
@@ -28,26 +28,6 @@
       }
     },
     {
-      "worldId": "wrld_85deb1f7-e2ac-4543-9bff-f8ed5f162890",
-      "worldName": "Femboy Starbucks",
-      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_e7160905-83e2-4d2d-8feb-614a74c507c2/3/256",
-      "instanceName": "04235",
-      "location": "wrld_85deb1f7-e2ac-4543-9bff-f8ed5f162890:04235~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(public)~ageGate~region(us)",
-      "region": "us",
-      "accessType": "public",
-      "ageGate": true,
-      "userCount": 3,
-      "capacity": 32,
-      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_85deb1f7-e2ac-4543-9bff-f8ed5f162890\u0026instanceId=04235~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28us%29",
-      "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_e7160905-83e2-4d2d-8feb-614a74c507c2_3.png",
-      "firstSeenAtUtc": "2026-11-21T06:16:35Z",
-      "openedAtUtc": "2026-11-21T06:16:35Z",
-      "openedBy": {
-        "name": null,
-        "role": "member"
-      }
-    },
-    {
       "worldId": "wrld_3c231334-2f20-442f-924c-a504d9f98543",
       "worldName": "Just B Club 4\u20240",
       "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_525d6166-e25b-4ece-921f-da69b11cb10c/14/256",
@@ -62,6 +42,26 @@
       "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_525d6166-e25b-4ece-921f-da69b11cb10c_14.png",
       "firstSeenAtUtc": "2026-11-20T16:48:14Z",
       "openedAtUtc": "2026-11-20T16:48:14Z",
+      "openedBy": {
+        "name": null,
+        "role": "member"
+      }
+    },
+    {
+      "worldId": "wrld_85deb1f7-e2ac-4543-9bff-f8ed5f162890",
+      "worldName": "Femboy Starbucks",
+      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_e7160905-83e2-4d2d-8feb-614a74c507c2/3/256",
+      "instanceName": "04235",
+      "location": "wrld_85deb1f7-e2ac-4543-9bff-f8ed5f162890:04235~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(public)~ageGate~region(us)",
+      "region": "us",
+      "accessType": "public",
+      "ageGate": true,
+      "userCount": 1,
+      "capacity": 32,
+      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_85deb1f7-e2ac-4543-9bff-f8ed5f162890\u0026instanceId=04235~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28us%29",
+      "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_e7160905-83e2-4d2d-8feb-614a74c507c2_3.png",
+      "firstSeenAtUtc": "2026-11-21T06:16:35Z",
+      "openedAtUtc": "2026-11-21T06:16:35Z",
       "openedBy": {
         "name": null,
         "role": "member"
