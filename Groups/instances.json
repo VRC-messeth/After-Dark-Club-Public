@@ -1,12 +1,32 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-21T08:15:40Z",
+  "generatedAtUtc": "2026-11-21T08:20:29Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
   },
-  "totalUsers": 6,
+  "totalUsers": 8,
   "instances": [
+    {
+      "worldId": "wrld_85deb1f7-e2ac-4543-9bff-f8ed5f162890",
+      "worldName": "Femboy Starbucks",
+      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_e7160905-83e2-4d2d-8feb-614a74c507c2/3/256",
+      "instanceName": "04235",
+      "location": "wrld_85deb1f7-e2ac-4543-9bff-f8ed5f162890:04235~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(public)~ageGate~region(us)",
+      "region": "us",
+      "accessType": "public",
+      "ageGate": true,
+      "userCount": 4,
+      "capacity": 32,
+      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_85deb1f7-e2ac-4543-9bff-f8ed5f162890\u0026instanceId=04235~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28us%29",
+      "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_e7160905-83e2-4d2d-8feb-614a74c507c2_3.png",
+      "firstSeenAtUtc": "2026-11-21T06:16:35Z",
+      "openedAtUtc": "2026-11-21T06:16:35Z",
+      "openedBy": {
+        "name": null,
+        "role": "member"
+      }
+    },
     {
       "worldId": "wrld_3edb543b-bd8e-4ae0-8592-93678bc62456",
       "worldName": "After Dark Club",
@@ -22,26 +42,6 @@
       "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_48666cc8-39c9-4271-ac7a-1819404c6cdf_3.png",
       "firstSeenAtUtc": "2026-11-20T22:44:48Z",
       "openedAtUtc": "2026-11-20T22:44:48Z",
-      "openedBy": {
-        "name": null,
-        "role": "member"
-      }
-    },
-    {
-      "worldId": "wrld_85deb1f7-e2ac-4543-9bff-f8ed5f162890",
-      "worldName": "Femboy Starbucks",
-      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_e7160905-83e2-4d2d-8feb-614a74c507c2/3/256",
-      "instanceName": "04235",
-      "location": "wrld_85deb1f7-e2ac-4543-9bff-f8ed5f162890:04235~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(public)~ageGate~region(us)",
-      "region": "us",
-      "accessType": "public",
-      "ageGate": true,
-      "userCount": 2,
-      "capacity": 32,
-      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_85deb1f7-e2ac-4543-9bff-f8ed5f162890\u0026instanceId=04235~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28us%29",
-      "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_e7160905-83e2-4d2d-8feb-614a74c507c2_3.png",
-      "firstSeenAtUtc": "2026-11-21T06:16:35Z",
-      "openedAtUtc": "2026-11-21T06:16:35Z",
       "openedBy": {
         "name": null,
         "role": "member"
