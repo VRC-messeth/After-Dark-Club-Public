@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-21T05:02:22Z",
+  "generatedAtUtc": "2026-11-21T05:03:04Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
   },
-  "totalUsers": 4,
+  "totalUsers": 5,
   "instances": [
     {
       "worldId": "wrld_3edb543b-bd8e-4ae0-8592-93678bc62456",
@@ -42,6 +42,26 @@
       "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_525d6166-e25b-4ece-921f-da69b11cb10c_14.png",
       "firstSeenAtUtc": "2026-11-20T16:48:14Z",
       "openedAtUtc": "2026-11-20T16:48:14Z",
+      "openedBy": {
+        "name": null,
+        "role": "member"
+      }
+    },
+    {
+      "worldId": "wrld_57514404-7f4e-4aee-a50a-57f55d3084bf",
+      "worldName": "Prismic\u0027s Avatar Search",
+      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_f2664ae9-c606-4e1c-b3f3-6d8961763a99/47/256",
+      "instanceName": "38428",
+      "location": "wrld_57514404-7f4e-4aee-a50a-57f55d3084bf:38428~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(public)~ageGate~region(us)",
+      "region": "us",
+      "accessType": "public",
+      "ageGate": true,
+      "userCount": 1,
+      "capacity": 80,
+      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_57514404-7f4e-4aee-a50a-57f55d3084bf\u0026instanceId=38428~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28us%29",
+      "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_f2664ae9-c606-4e1c-b3f3-6d8961763a99_47.png",
+      "firstSeenAtUtc": "2026-11-21T05:01:31Z",
+      "openedAtUtc": "2026-11-21T05:01:31Z",
       "openedBy": {
         "name": null,
         "role": "member"
