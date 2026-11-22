@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-22T10:13:02Z",
+  "generatedAtUtc": "2026-11-22T10:13:44Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
   },
-  "totalUsers": 43,
+  "totalUsers": 40,
   "instances": [
     {
       "worldId": "wrld_3c231334-2f20-442f-924c-a504d9f98543",
@@ -22,26 +22,6 @@
       "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_525d6166-e25b-4ece-921f-da69b11cb10c_14.png",
       "firstSeenAtUtc": "2026-11-21T13:56:40Z",
       "openedAtUtc": "2026-11-21T13:56:40Z",
-      "openedBy": {
-        "name": null,
-        "role": "member"
-      }
-    },
-    {
-      "worldId": "wrld_d9d91fd7-997e-4fa3-8af2-539f6f1a4e6a",
-      "worldName": "Beach Party",
-      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_efcffb59-66ae-45ad-b52c-d9f36aaaa5dd/4/256",
-      "instanceName": "66373",
-      "location": "wrld_d9d91fd7-997e-4fa3-8af2-539f6f1a4e6a:66373~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(plus)~ageGate~region(us)",
-      "region": "us",
-      "accessType": "plus",
-      "ageGate": true,
-      "userCount": 3,
-      "capacity": 80,
-      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_d9d91fd7-997e-4fa3-8af2-539f6f1a4e6a\u0026instanceId=66373~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28plus%29~ageGate~region%28us%29",
-      "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_efcffb59-66ae-45ad-b52c-d9f36aaaa5dd_4.png",
-      "firstSeenAtUtc": "2026-11-22T09:24:22Z",
-      "openedAtUtc": "2026-11-22T09:24:22Z",
       "openedBy": {
         "name": null,
         "role": "member"
