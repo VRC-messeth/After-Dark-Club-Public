@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-22T20:52:12Z",
+  "generatedAtUtc": "2026-11-22T21:04:31Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
   },
-  "totalUsers": 5,
+  "totalUsers": 6,
   "instances": [
     {
       "worldId": "wrld_3c231334-2f20-442f-924c-a504d9f98543",
@@ -28,6 +28,26 @@
       }
     },
     {
+      "worldId": "wrld_ba727d7e-221e-4f55-bb4e-04b31db093ea",
+      "worldName": "Steal an egg\u01C3",
+      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_fce8fd8d-4977-463e-9f57-0cb1ffa2e351/3/256",
+      "instanceName": "65078",
+      "location": "wrld_ba727d7e-221e-4f55-bb4e-04b31db093ea:65078~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(public)~ageGate~region(use)",
+      "region": "use",
+      "accessType": "public",
+      "ageGate": true,
+      "userCount": 2,
+      "capacity": 16,
+      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_ba727d7e-221e-4f55-bb4e-04b31db093ea\u0026instanceId=65078~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28use%29",
+      "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_fce8fd8d-4977-463e-9f57-0cb1ffa2e351_3.png",
+      "firstSeenAtUtc": "2026-11-22T20:27:10Z",
+      "openedAtUtc": "2026-11-22T20:27:10Z",
+      "openedBy": {
+        "name": "Salsa Shark",
+        "role": "MOD"
+      }
+    },
+    {
       "worldId": "wrld_3edb543b-bd8e-4ae0-8592-93678bc62456",
       "worldName": "After Dark Club",
       "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_48666cc8-39c9-4271-ac7a-1819404c6cdf/3/256",
@@ -45,26 +65,6 @@
       "openedBy": {
         "name": null,
         "role": "member"
-      }
-    },
-    {
-      "worldId": "wrld_ba727d7e-221e-4f55-bb4e-04b31db093ea",
-      "worldName": "Steal an egg\u01C3",
-      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_fce8fd8d-4977-463e-9f57-0cb1ffa2e351/3/256",
-      "instanceName": "65078",
-      "location": "wrld_ba727d7e-221e-4f55-bb4e-04b31db093ea:65078~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(public)~ageGate~region(use)",
-      "region": "use",
-      "accessType": "public",
-      "ageGate": true,
-      "userCount": 1,
-      "capacity": 16,
-      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_ba727d7e-221e-4f55-bb4e-04b31db093ea\u0026instanceId=65078~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28use%29",
-      "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_fce8fd8d-4977-463e-9f57-0cb1ffa2e351_3.png",
-      "firstSeenAtUtc": "2026-11-22T20:27:10Z",
-      "openedAtUtc": "2026-11-22T20:27:10Z",
-      "openedBy": {
-        "name": "Salsa Shark",
-        "role": "MOD"
       }
     }
   ]
