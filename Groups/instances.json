@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-22T00:07:43Z",
+  "generatedAtUtc": "2026-11-22T00:09:45Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
   },
-  "totalUsers": 39,
+  "totalUsers": 45,
   "instances": [
     {
       "worldId": "wrld_3c231334-2f20-442f-924c-a504d9f98543",
@@ -16,12 +16,32 @@
       "region": "use",
       "accessType": "public",
       "ageGate": true,
-      "userCount": 39,
+      "userCount": 41,
       "capacity": 80,
       "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_3c231334-2f20-442f-924c-a504d9f98543\u0026instanceId=70835~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28use%29",
       "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_525d6166-e25b-4ece-921f-da69b11cb10c_14.png",
       "firstSeenAtUtc": "2026-11-21T13:56:40Z",
       "openedAtUtc": "2026-11-21T13:56:40Z",
+      "openedBy": {
+        "name": null,
+        "role": "member"
+      }
+    },
+    {
+      "worldId": "wrld_59709c92-b706-42f5-94c6-1d097c72a81a",
+      "worldName": "ALL IN \u01C3 - New Casino Games",
+      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_e5e84790-15a4-4deb-8954-5fee17b234f0/2/256",
+      "instanceName": "41953",
+      "location": "wrld_59709c92-b706-42f5-94c6-1d097c72a81a:41953~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(plus)~ageGate~region(use)",
+      "region": "use",
+      "accessType": "plus",
+      "ageGate": true,
+      "userCount": 4,
+      "capacity": 25,
+      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_59709c92-b706-42f5-94c6-1d097c72a81a\u0026instanceId=41953~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28plus%29~ageGate~region%28use%29",
+      "worldImageCachedUrl": null,
+      "firstSeenAtUtc": "2026-11-22T00:06:23Z",
+      "openedAtUtc": "2026-11-22T00:06:23Z",
       "openedBy": {
         "name": null,
         "role": "member"
