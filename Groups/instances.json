@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-23T06:52:21Z",
+  "generatedAtUtc": "2026-11-23T06:54:26Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
   },
-  "totalUsers": 65,
+  "totalUsers": 64,
   "instances": [
     {
       "worldId": "wrld_3c231334-2f20-442f-924c-a504d9f98543",
@@ -42,26 +42,6 @@
       "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_48666cc8-39c9-4271-ac7a-1819404c6cdf_3.png",
       "firstSeenAtUtc": "2026-11-22T12:17:27Z",
       "openedAtUtc": "2026-11-22T12:17:27Z",
-      "openedBy": {
-        "name": null,
-        "role": "member"
-      }
-    },
-    {
-      "worldId": "wrld_8bf8e9ae-50b5-4241-858e-6d765a55ed81",
-      "worldName": "Neo Tokyo",
-      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_753b076a-71b7-446d-965a-25af1b73214b/3/256",
-      "instanceName": "06047",
-      "location": "wrld_8bf8e9ae-50b5-4241-858e-6d765a55ed81:06047~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(public)~ageGate~region(us)",
-      "region": "us",
-      "accessType": "public",
-      "ageGate": true,
-      "userCount": 1,
-      "capacity": 80,
-      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_8bf8e9ae-50b5-4241-858e-6d765a55ed81\u0026instanceId=06047~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28us%29",
-      "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_753b076a-71b7-446d-965a-25af1b73214b_3.png",
-      "firstSeenAtUtc": "2026-11-23T06:19:56Z",
-      "openedAtUtc": "2026-11-23T06:19:56Z",
       "openedBy": {
         "name": null,
         "role": "member"
