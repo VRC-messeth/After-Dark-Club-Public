@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-23T06:20:07Z",
+  "generatedAtUtc": "2026-11-23T06:21:30Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
   },
-  "totalUsers": 78,
+  "totalUsers": 79,
   "instances": [
     {
       "worldId": "wrld_3c231334-2f20-442f-924c-a504d9f98543",
@@ -16,12 +16,32 @@
       "region": "use",
       "accessType": "public",
       "ageGate": true,
-      "userCount": 75,
+      "userCount": 74,
       "capacity": 80,
       "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_3c231334-2f20-442f-924c-a504d9f98543\u0026instanceId=56498~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28use%29",
       "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_525d6166-e25b-4ece-921f-da69b11cb10c_14.png",
       "firstSeenAtUtc": "2026-11-22T22:05:03Z",
       "openedAtUtc": "2026-11-22T22:05:03Z",
+      "openedBy": {
+        "name": null,
+        "role": "member"
+      }
+    },
+    {
+      "worldId": "wrld_8bf8e9ae-50b5-4241-858e-6d765a55ed81",
+      "worldName": "Neo Tokyo",
+      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_753b076a-71b7-446d-965a-25af1b73214b/3/256",
+      "instanceName": "06047",
+      "location": "wrld_8bf8e9ae-50b5-4241-858e-6d765a55ed81:06047~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(public)~ageGate~region(us)",
+      "region": "us",
+      "accessType": "public",
+      "ageGate": true,
+      "userCount": 2,
+      "capacity": 80,
+      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_8bf8e9ae-50b5-4241-858e-6d765a55ed81\u0026instanceId=06047~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28us%29",
+      "worldImageCachedUrl": null,
+      "firstSeenAtUtc": "2026-11-23T06:19:56Z",
+      "openedAtUtc": "2026-11-23T06:19:56Z",
       "openedBy": {
         "name": null,
         "role": "member"
