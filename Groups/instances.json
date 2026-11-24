@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-24T21:14:40Z",
+  "generatedAtUtc": "2026-11-24T21:15:22Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
@@ -16,7 +16,7 @@
       "region": "use",
       "accessType": "public",
       "ageGate": true,
-      "userCount": 4,
+      "userCount": 5,
       "capacity": 80,
       "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_3c231334-2f20-442f-924c-a504d9f98543\u0026instanceId=56498~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28use%29",
       "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_525d6166-e25b-4ece-921f-da69b11cb10c_14.png",
@@ -42,26 +42,6 @@
       "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_48666cc8-39c9-4271-ac7a-1819404c6cdf_3.png",
       "firstSeenAtUtc": "2026-11-22T12:17:27Z",
       "openedAtUtc": "2026-11-22T12:17:27Z",
-      "openedBy": {
-        "name": null,
-        "role": "member"
-      }
-    },
-    {
-      "worldId": "wrld_b22b1ef6-050a-4416-afde-a4a241c3553a",
-      "worldName": "GTA 6",
-      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_00d3d15c-379b-4bac-880d-bf58a41db77a/1/256",
-      "instanceName": "43350",
-      "location": "wrld_b22b1ef6-050a-4416-afde-a4a241c3553a:43350~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(public)~ageGate~region(use)",
-      "region": "use",
-      "accessType": "public",
-      "ageGate": true,
-      "userCount": 1,
-      "capacity": 80,
-      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_b22b1ef6-050a-4416-afde-a4a241c3553a\u0026instanceId=43350~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28use%29",
-      "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_00d3d15c-379b-4bac-880d-bf58a41db77a_1.png",
-      "firstSeenAtUtc": "2026-11-24T21:10:21Z",
-      "openedAtUtc": "2026-11-24T21:10:21Z",
       "openedBy": {
         "name": null,
         "role": "member"
