@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-25T23:14:06Z",
+  "generatedAtUtc": "2026-11-25T23:16:22Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
   },
-  "totalUsers": 12,
+  "totalUsers": 14,
   "instances": [
     {
       "worldId": "wrld_3c231334-2f20-442f-924c-a504d9f98543",
@@ -25,6 +25,26 @@
       "openedBy": {
         "name": "messeth",
         "role": "REX"
+      }
+    },
+    {
+      "worldId": "wrld_1d8dd749-8b52-4dfa-b4b1-071e1b93c342",
+      "worldName": "VR Saber \uFF5C Beat Saber",
+      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_df778941-9073-4df8-be71-8118704ec145/6/256",
+      "instanceName": "11394",
+      "location": "wrld_1d8dd749-8b52-4dfa-b4b1-071e1b93c342:11394~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(public)~ageGate~region(use)",
+      "region": "use",
+      "accessType": "public",
+      "ageGate": true,
+      "userCount": 2,
+      "capacity": 32,
+      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_1d8dd749-8b52-4dfa-b4b1-071e1b93c342\u0026instanceId=11394~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28use%29",
+      "worldImageCachedUrl": null,
+      "firstSeenAtUtc": "2026-11-25T23:14:28Z",
+      "openedAtUtc": "2026-11-25T23:14:28Z",
+      "openedBy": {
+        "name": null,
+        "role": "member"
       }
     },
     {
