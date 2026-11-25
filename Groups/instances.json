@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-25T19:16:10Z",
+  "generatedAtUtc": "2026-11-25T19:43:14Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
   },
-  "totalUsers": 4,
+  "totalUsers": 6,
   "instances": [
     {
       "worldId": "wrld_3c231334-2f20-442f-924c-a504d9f98543",
@@ -25,6 +25,26 @@
       "openedBy": {
         "name": "messeth",
         "role": "REX"
+      }
+    },
+    {
+      "worldId": "wrld_63de942c-ae43-4527-bd43-5460032a87b1",
+      "worldName": "Break-n-Haul",
+      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_6f6d6fad-8127-43be-95fc-3485329d7169/8/256",
+      "instanceName": "80535",
+      "location": "wrld_63de942c-ae43-4527-bd43-5460032a87b1:80535~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(public)~ageGate~region(use)",
+      "region": "use",
+      "accessType": "public",
+      "ageGate": true,
+      "userCount": 2,
+      "capacity": 6,
+      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_63de942c-ae43-4527-bd43-5460032a87b1\u0026instanceId=80535~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28use%29",
+      "worldImageCachedUrl": null,
+      "firstSeenAtUtc": "2026-11-25T19:41:29Z",
+      "openedAtUtc": "2026-11-25T19:41:29Z",
+      "openedBy": {
+        "name": null,
+        "role": "member"
       }
     },
     {
