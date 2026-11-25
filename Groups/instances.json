@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-25T02:07:02Z",
+  "generatedAtUtc": "2026-11-25T02:08:24Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
   },
-  "totalUsers": 51,
+  "totalUsers": 48,
   "instances": [
     {
       "worldId": "wrld_3c231334-2f20-442f-924c-a504d9f98543",
@@ -28,26 +28,6 @@
       }
     },
     {
-      "worldId": "wrld_b7acb016-d29f-498b-9d40-0b9a6c38a820",
-      "worldName": "EvolvedAnt Arcade",
-      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_63c3692d-5482-4e26-9fea-83f830c59a18/19/256",
-      "instanceName": "13322",
-      "location": "wrld_b7acb016-d29f-498b-9d40-0b9a6c38a820:13322~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(members)~ageGate~region(us)",
-      "region": "us",
-      "accessType": "members",
-      "ageGate": true,
-      "userCount": 4,
-      "capacity": 32,
-      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_b7acb016-d29f-498b-9d40-0b9a6c38a820\u0026instanceId=13322~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28members%29~ageGate~region%28us%29",
-      "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_63c3692d-5482-4e26-9fea-83f830c59a18_19.png",
-      "firstSeenAtUtc": "2026-11-25T01:31:14Z",
-      "openedAtUtc": "2026-11-25T01:31:14Z",
-      "openedBy": {
-        "name": null,
-        "role": "member"
-      }
-    },
-    {
       "worldId": "wrld_3edb543b-bd8e-4ae0-8592-93678bc62456",
       "worldName": "After Dark Club",
       "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_48666cc8-39c9-4271-ac7a-1819404c6cdf/3/256",
@@ -62,6 +42,26 @@
       "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_48666cc8-39c9-4271-ac7a-1819404c6cdf_3.png",
       "firstSeenAtUtc": "2026-11-22T12:17:27Z",
       "openedAtUtc": "2026-11-22T12:17:27Z",
+      "openedBy": {
+        "name": null,
+        "role": "member"
+      }
+    },
+    {
+      "worldId": "wrld_b7acb016-d29f-498b-9d40-0b9a6c38a820",
+      "worldName": "EvolvedAnt Arcade",
+      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_63c3692d-5482-4e26-9fea-83f830c59a18/19/256",
+      "instanceName": "13322",
+      "location": "wrld_b7acb016-d29f-498b-9d40-0b9a6c38a820:13322~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(members)~ageGate~region(us)",
+      "region": "us",
+      "accessType": "members",
+      "ageGate": true,
+      "userCount": 1,
+      "capacity": 32,
+      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_b7acb016-d29f-498b-9d40-0b9a6c38a820\u0026instanceId=13322~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28members%29~ageGate~region%28us%29",
+      "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_63c3692d-5482-4e26-9fea-83f830c59a18_19.png",
+      "firstSeenAtUtc": "2026-11-25T01:31:14Z",
+      "openedAtUtc": "2026-11-25T01:31:14Z",
       "openedBy": {
         "name": null,
         "role": "member"
