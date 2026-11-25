@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-25T06:39:00Z",
+  "generatedAtUtc": "2026-11-25T06:39:01Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
   },
-  "totalUsers": 81,
+  "totalUsers": 78,
   "instances": [
     {
       "worldId": "wrld_3c231334-2f20-442f-924c-a504d9f98543",
@@ -22,26 +22,6 @@
       "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_525d6166-e25b-4ece-921f-da69b11cb10c_14.png",
       "firstSeenAtUtc": "2026-11-22T22:05:03Z",
       "openedAtUtc": "2026-11-22T22:05:03Z",
-      "openedBy": {
-        "name": null,
-        "role": "member"
-      }
-    },
-    {
-      "worldId": "wrld_60fb93f8-bc6d-4812-902a-7c7e9491b61a",
-      "worldName": "Cards Against Humanity",
-      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_fca00b6f-05f3-4b46-a9d6-259b6efde797/4/256",
-      "instanceName": "27635",
-      "location": "wrld_60fb93f8-bc6d-4812-902a-7c7e9491b61a:27635~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(public)~ageGate~region(use)",
-      "region": "use",
-      "accessType": "public",
-      "ageGate": true,
-      "userCount": 3,
-      "capacity": 24,
-      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_60fb93f8-bc6d-4812-902a-7c7e9491b61a\u0026instanceId=27635~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28use%29",
-      "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_fca00b6f-05f3-4b46-a9d6-259b6efde797_4.png",
-      "firstSeenAtUtc": "2026-11-25T04:17:14Z",
-      "openedAtUtc": "2026-11-25T04:17:14Z",
       "openedBy": {
         "name": null,
         "role": "member"
