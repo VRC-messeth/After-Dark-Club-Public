@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-25T12:07:36Z",
+  "generatedAtUtc": "2026-11-25T12:09:38Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
   },
-  "totalUsers": 8,
+  "totalUsers": 10,
   "instances": [
     {
       "worldId": "wrld_3c231334-2f20-442f-924c-a504d9f98543",
@@ -16,32 +16,15 @@
       "region": "use",
       "accessType": "public",
       "ageGate": false,
-      "userCount": 5,
+      "userCount": 8,
       "capacity": 80,
       "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_3c231334-2f20-442f-924c-a504d9f98543\u0026instanceId=38034~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~region%28use%29",
       "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_525d6166-e25b-4ece-921f-da69b11cb10c_14.png",
-      "firstSeenAtUtc": "2026-11-25T12:06:01Z",
-      "openedAtUtc": null,
-      "openedBy": null
-    },
-    {
-      "worldId": "wrld_3c231334-2f20-442f-924c-a504d9f98543",
-      "worldName": "Just B Club 4\u20240",
-      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_525d6166-e25b-4ece-921f-da69b11cb10c/14/256",
-      "instanceName": "81546",
-      "location": "wrld_3c231334-2f20-442f-924c-a504d9f98543:81546~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(public)~ageGate~region(use)",
-      "region": "use",
-      "accessType": "public",
-      "ageGate": true,
-      "userCount": 1,
-      "capacity": 80,
-      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_3c231334-2f20-442f-924c-a504d9f98543\u0026instanceId=81546~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28use%29",
-      "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_525d6166-e25b-4ece-921f-da69b11cb10c_14.png",
-      "firstSeenAtUtc": "2026-11-25T11:36:47Z",
-      "openedAtUtc": "2026-11-25T11:36:47Z",
+      "firstSeenAtUtc": "2026-11-25T11:48:23Z",
+      "openedAtUtc": "2026-11-25T11:48:23Z",
       "openedBy": {
-        "name": null,
-        "role": "member"
+        "name": "messeth",
+        "role": "REX"
       }
     },
     {
@@ -53,29 +36,12 @@
       "region": "use",
       "accessType": "public",
       "ageGate": false,
-      "userCount": 1,
+      "userCount": 2,
       "capacity": 80,
       "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_3edb543b-bd8e-4ae0-8592-93678bc62456\u0026instanceId=16293~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~region%28use%29",
       "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_48666cc8-39c9-4271-ac7a-1819404c6cdf_3.png",
-      "firstSeenAtUtc": "2026-11-25T12:06:01Z",
-      "openedAtUtc": null,
-      "openedBy": null
-    },
-    {
-      "worldId": "wrld_3edb543b-bd8e-4ae0-8592-93678bc62456",
-      "worldName": "After Dark Club",
-      "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_48666cc8-39c9-4271-ac7a-1819404c6cdf/3/256",
-      "instanceName": "85704",
-      "location": "wrld_3edb543b-bd8e-4ae0-8592-93678bc62456:85704~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(plus)~ageGate~region(use)",
-      "region": "use",
-      "accessType": "plus",
-      "ageGate": true,
-      "userCount": 1,
-      "capacity": 80,
-      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_3edb543b-bd8e-4ae0-8592-93678bc62456\u0026instanceId=85704~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28plus%29~ageGate~region%28use%29",
-      "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_48666cc8-39c9-4271-ac7a-1819404c6cdf_3.png",
-      "firstSeenAtUtc": "2026-11-22T12:17:27Z",
-      "openedAtUtc": null,
+      "firstSeenAtUtc": "2026-11-25T11:56:11Z",
+      "openedAtUtc": "2026-11-25T11:56:11Z",
       "openedBy": {
         "name": null,
         "role": "member"
