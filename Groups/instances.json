@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-25T21:08:04Z",
+  "generatedAtUtc": "2026-11-25T21:32:14Z",
   "group": {
     "id": "grp_a9da0233-adaa-48c8-b2cb-ae0326514929",
     "name": "After Dark"
@@ -11,17 +11,17 @@
       "worldId": "wrld_3c231334-2f20-442f-924c-a504d9f98543",
       "worldName": "Just B Club 4\u20240",
       "worldImageUrl": "https://api.vrchat.cloud/api/1/image/file_525d6166-e25b-4ece-921f-da69b11cb10c/14/256",
-      "instanceName": "38034",
-      "location": "wrld_3c231334-2f20-442f-924c-a504d9f98543:38034~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(public)~region(use)",
+      "instanceName": "60816",
+      "location": "wrld_3c231334-2f20-442f-924c-a504d9f98543:60816~group(grp_a9da0233-adaa-48c8-b2cb-ae0326514929)~groupAccessType(public)~ageGate~region(use)",
       "region": "use",
       "accessType": "public",
-      "ageGate": false,
+      "ageGate": true,
       "userCount": 3,
       "capacity": 80,
-      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_3c231334-2f20-442f-924c-a504d9f98543\u0026instanceId=38034~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~region%28use%29",
+      "launchUrl": "https://vrchat.com/home/launch?worldId=wrld_3c231334-2f20-442f-924c-a504d9f98543\u0026instanceId=60816~group%28grp_a9da0233-adaa-48c8-b2cb-ae0326514929%29~groupAccessType%28public%29~ageGate~region%28use%29",
       "worldImageCachedUrl": "https://vrc-messeth.github.io/After-Dark-Club-Public/Groups/world-images/file_525d6166-e25b-4ece-921f-da69b11cb10c_14.png",
-      "firstSeenAtUtc": null,
-      "openedAtUtc": null,
+      "firstSeenAtUtc": "2026-11-25T21:30:07Z",
+      "openedAtUtc": "2026-11-25T21:30:07Z",
       "openedBy": {
         "name": "messeth",
         "role": "REX"
